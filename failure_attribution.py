@@ -12,7 +12,7 @@ from agent_step import AgentStep
 from formulas import FORMULA_MAP, get_formula
 
 
-def get_agent_count_and_presence_map(matrix, tuple_file):
+def get_agent_count_and_presence_map(matrix: List[List], tuple_file: str):
     """
     :param matrix: 2D list (rows × cols)
     :param tuple_file: path to tuple file, 每一行对应 matrix 的一行
@@ -58,7 +58,7 @@ def get_agent_count_and_presence_map(matrix, tuple_file):
 
 def compute_spectrum_score(matrix_file: str, test_file: str, formula_name: str, input_dir: str,
                          output_dir: str, all_agentsteps_sorted: List[AgentStep],
-                         no_lambda, no_gamma, no_beta, lambda_value):
+                         no_lambda: bool, no_gamma: bool, no_beta: bool, lambda_value: float):
     matrix = pd.read_csv(matrix_file, header=None).values
 
     with open(test_file, "r", encoding="utf-8") as f:
@@ -127,11 +127,6 @@ def compute_spectrum_score(matrix_file: str, test_file: str, formula_name: str, 
         selected = []
         with open(tuple_j_file, "r", encoding="utf-8") as f:
             lines = f.readlines()
-            max_count = 0
-            for line in lines:
-                name = line.strip()
-                if matrix[spectrum_map[name]][j] > max_count:
-                    max_count = matrix[spectrum_map[name]][j]
             for line in lines:
                 name = line.strip()
                 if name in spectrum_map:

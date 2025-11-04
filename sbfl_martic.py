@@ -95,7 +95,7 @@ def generate_step_matrix(file_agentsteps: List[set], all_agentsteps_sorted: List
     return str(matrix_file), str(test_file)
 
 
-def get_all_steps_and_all_bigrams(input_dir:str):
+def get_all_steps_and_all_bigrams(input_dir: str):
     all_agentsteps = []
     with open(os.path.join(input_dir, "tuple", "all.tuple") , "r", encoding="utf-8") as out:
         for line in out.readlines():
@@ -105,11 +105,11 @@ def get_all_steps_and_all_bigrams(input_dir:str):
     return all_agentsteps
 
 
-def get_all_matrix_files(input_dir:str):
+def get_all_matrix_files(input_dir: str):
     return os.path.join(input_dir, "step_matrix.csv"), os.path.join(input_dir, "test")
 
 
-def generate_all_matrix(analysis_dir: str, output_dir):
+def generate_all_matrix(analysis_dir: str, output_dir: str):
 
     for dirname in os.listdir(analysis_dir):
         input_example = os.path.join(analysis_dir, dirname)
