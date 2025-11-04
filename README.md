@@ -36,15 +36,15 @@ python failure_attribution.py -i [input_dir] -o [output_dir] -f [formula] (--no_
 ```
 
 #### Parameter Description
-| Parameter | Short | Required | Default | Description |
-|-----------|-------|----------|---------|-------------|
-| `--input` | `-i` | ✅ | None | Path to input directory containing spectrum matrix files |
-| `--output` | `-o` | ✅ | None | Path to output directory for results |
-| `--formula` | `-f` | ❌ | `kulczynski2` | Suspiciousness formula (`ochiai`, `tarantula`, `jaccard`, `dstar`, `kulczynski2`) |
-| `--no_lambda` | None | ❌ | `False` | where use λ configuration |
-| `--no_gamma ` | None | ❌ | `False` | where use γ configuration |
-| `--no_beta ` | None | ❌ | `False` | where use β configuration |
-| `--lambda_value` | None | ❌ | `0.9` | λ parameter value (0.0-1.0) |
+| Parameter        | Short | Required | Default       | Description                                                                       |
+| ---------------- | ----- | -------- | ------------- | --------------------------------------------------------------------------------- |
+| `--input`        | `-i`  | ✅        | None          | Path to input directory containing spectrum matrix files                          |
+| `--output`       | `-o`  | ✅        | None          | Path to output directory for results                                              |
+| `--formula`      | `-f`  | ❌        | `kulczynski2` | Suspiciousness formula (`ochiai`, `tarantula`, `jaccard`, `dstar`, `kulczynski2`) |
+| `--no_lambda`    | None  | ❌        | `False`       | where use λ configuration                                                         |
+| `--no_gamma `    | None  | ❌        | `False`       | where use γ configuration                                                         |
+| `--no_beta `     | None  | ❌        | `False`       | where use β configuration                                                         |
+| `--lambda_value` | None  | ❌        | `0.9`         | λ parameter value (0.0-1.0)                                                       |
 
 #### Examples
 
@@ -64,16 +64,16 @@ You can provide either a single benchmark directory or the root `output/results/
 #### Execution Command
 
 ```bash
-python fl_analysis.py --fl_dir [fl_results_dir] --output_dir [output_dir]
+python metric.py --fl_dir [fl_results_dir] --output_dir [output_dir]
 ```
 
-####Example
+#### Example
 
 ```bash
 # Generate metrics for a single benchmark
-python fl_analysis.py --fl_dir output/results/hand_crafted --output_dir output/metric
+python metric.py --fl_dir output/results/hand_crafted --output_dir output/metric
 
 # Generate metrics for all benchmarks under the root directory
-python fl_analysis.py --fl_dir output/results/ --output_dir output/metric
+python metric.py --fl_dir output/results/ --output_dir output/metric
 
 ```
