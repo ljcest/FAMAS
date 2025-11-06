@@ -1,0 +1,2 @@
+{"agent": "Fashion_Vogue_Expert", "action": "identify", "state": "Eiffel Tower in Paris, France"}
+{"agent": "Geography_Expert", "action": "update script", "state": "include print statement for height in yards"}

@@ -1,0 +1,2 @@
+{"agent": "Validation_Expert", "action": "update script", "state": "correct the code to locate and extract the jersey number"}
+{"agent": "Validation_Expert", "action": "update script", "state": "handle table not found error gracefully"}

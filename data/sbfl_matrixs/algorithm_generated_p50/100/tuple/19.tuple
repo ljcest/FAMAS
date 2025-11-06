@@ -1,0 +1,2 @@
+{"agent": "StreamingService_Expert", "action": "gather", "state": "Daniel Craig movies and their IMDB ratings and durations"}
+{"agent": "StreamingService_Expert", "action": "send code", "state": "check availability for Skyfall (2012) on Netflix US"}

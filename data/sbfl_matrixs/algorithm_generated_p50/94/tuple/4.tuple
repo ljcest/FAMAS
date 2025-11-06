@@ -1,0 +1,4 @@
+{"agent": "AnimalBehavior_Expert", "action": "suggest", "state": "watch the video and take detailed notes on the bird's characteristics"}
+{"agent": "BirdSpeciesIdentification_Expert", "action": "recommend", "state": "check the video and note the bird's characteristics"}
+{"agent": "BirdSpeciesIdentification_Expert", "action": "request", "state": "insights from other members or descriptions of the bird's notable features shown in the video"}
+{"agent": "Ornithology_Expert", "action": "recommend", "state": "one of us watches the video and documents specific characteristics"}

@@ -1,0 +1,2 @@
+{"agent": "Geospatial_Expert", "action": "outline steps", "state": "Verify addresses, geocode, identify paintball places, calculate walking distances, and filter results"}
+{"agent": "Geospatial_Expert", "action": "provide code", "state": "geocode addresses and calculate walking distances"}

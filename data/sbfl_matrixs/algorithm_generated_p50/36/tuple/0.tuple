@@ -1,0 +1,2 @@
+{"agent": "ProblemSolving_Expert", "action": "write script", "state": "manually implement fraction simplification process"}
+{"agent": "Verification_Expert", "action": "verify", "state": "the accuracy of the extracted fractions and their solutions"}

@@ -1,0 +1,2 @@
+{"agent": "Verification_Expert", "action": "suggest", "state": "implement web search using requests library"}
+{"agent": "Whitney_Collection_Expert", "action": "execute", "state": "install requests library and search Whitney Museum's website for accession number 2022.128"}

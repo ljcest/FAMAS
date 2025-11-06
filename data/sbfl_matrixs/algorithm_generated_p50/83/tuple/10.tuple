@@ -1,0 +1,3 @@
+{"agent": "DataAnalysis_Expert", "action": "outline", "state": "Confirm the URL of the dataset, download the dataset, extract data, analyze and count, interpret results, and verify data"}
+{"agent": "DataVerification_Expert", "action": "assist", "state": "confirm the exact URL for downloading the dataset from the USGS Nonindigenous Aquatic Species database"}
+{"agent": "DataVerification_Expert", "action": "execute", "state": "Bing Search API request to find the dataset URL"}

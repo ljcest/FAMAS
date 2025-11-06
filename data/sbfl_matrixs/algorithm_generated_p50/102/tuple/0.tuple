@@ -1,0 +1,3 @@
+{"agent": "Filmography_Expert", "action": "write script", "state": "get the filmography of Isabelle Adjani"}
+{"agent": "IMDB_Ratings_Expert", "action": "propose", "state": "alternative method to gather Isabelle Adjani's filmography"}
+{"agent": "StreamingAvailability_Expert", "action": "check", "state": "La Gifle, Subway, Diabolique on Vudu"}

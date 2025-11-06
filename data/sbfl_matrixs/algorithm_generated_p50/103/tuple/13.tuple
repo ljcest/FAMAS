@@ -1,0 +1,3 @@
+{"agent": "DataVerification_Expert", "action": "execute script", "state": "search for eateries near Harkness Memorial State Park open at 11 PM on Wednesdays"}
+{"agent": "Eateries_Expert", "action": "execute script", "state": "find and print eateries open at 11 PM on Wednesdays using mock data"}
+{"agent": "Location-Based_Services_Expert", "action": "revise approach", "state": "use mock data and Google Maps to find eateries open at 11 PM on Wednesdays"}

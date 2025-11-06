@@ -1,0 +1,2 @@
+{"agent": "DataAnalysis_Expert", "action": "propose alternative", "state": "use web scraping to extract discography from Wikipedia"}
+{"agent": "InformationVerification_Expert", "action": "formulate query", "state": "search for Mercedes Sosa's discography on Wikipedia"}

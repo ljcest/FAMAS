@@ -1,0 +1,2 @@
+{"agent": "Physics_Expert", "action": "outline", "state": "steps to locate and extract information from the specified papers"}
+{"agent": "Verification_Expert", "action": "assist", "state": "analyze the information once label words are gathered"}

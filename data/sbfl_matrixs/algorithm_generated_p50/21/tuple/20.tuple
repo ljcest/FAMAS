@@ -1,0 +1,3 @@
+{"agent": "Lyrics_Expert", "action": "identify", "state": "last word before the second chorus is time"}
+{"agent": "Lyrics_Expert", "action": "plan", "state": "Identify the last word before the second chorus of Michael Jackson's song Thriller"}
+{"agent": "MusicHistorian_Expert", "action": "confirm", "state": "Thriller is the fifth single from Michael Jackson's sixth studio album"}

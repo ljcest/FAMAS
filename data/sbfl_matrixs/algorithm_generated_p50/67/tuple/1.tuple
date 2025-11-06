@@ -1,0 +1,3 @@
+{"agent": "MarineLifeData_Expert", "action": "simulate", "state": "identify the first National Geographic short and determine what #9 refers to"}
+{"agent": "MarineLifeData_Expert", "action": "simulate", "state": "lookup maximum length of Giant Pacific Octopus on Monterey Bay Aquarium website"}
+{"agent": "VideoContentAnalysis_Expert", "action": "guide", "state": "provide systematic steps to gather necessary information"}

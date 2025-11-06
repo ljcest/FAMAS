@@ -1,0 +1,2 @@
+{"agent": "VideoContentAnalysis_Expert", "action": "adjust plan", "state": "Skip ffmpeg installation and proceed with video download using yt-dlp"}
+{"agent": "VideoContentAnalysis_Expert", "action": "suggest", "state": "Download the video using yt-dlp and extract the audio using ffmpeg"}

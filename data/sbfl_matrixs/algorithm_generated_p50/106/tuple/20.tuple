@@ -1,0 +1,2 @@
+{"agent": "RealEstate_Expert", "action": "plan", "state": "Verify the highest sale price of a high-rise apartment in Mission Bay, San Francisco, during the year 2021"}
+{"agent": "Verification_Expert", "action": "summarize", "state": "Confirm the highest sale price of a high-rise apartment in Mission Bay, San Francisco, during the year 2021 is $5,200,000"}

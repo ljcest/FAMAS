@@ -1,0 +1,12 @@
+{"agent": "MagenticOneOrchestrator", "action": "click", "state": "on the 'Downloads' section on the current page"}
+{"agent": "MagenticOneOrchestrator", "action": "navigate", "state": "NCBI Genome Data Browser and Ensembl to find the most recent GFF3 file for beluga whales as of 20/10/2020"}
+{"agent": "MagenticOneOrchestrator", "action": "navigate", "state": "to https://mart.ensembl.org/Delphinapterus_leucas/Info/Index and click on the 'Downloads' section"}
+{"agent": "MagenticOneOrchestrator", "action": "navigate", "state": "to the 'Downloads' section of the Ensembl page for the beluga whale genome"}
+{"agent": "MagenticOneOrchestrator", "action": "plan", "state": "a team to address the user request"}
+{"agent": "MagenticOneOrchestrator", "action": "search", "state": "the most recent GFF3 file for beluga whales as of 20/10/2020"}
+{"agent": "MagenticOneOrchestrator", "action": "update", "state": "the fact sheet and plan to address the user request"}
+{"agent": "WebSurfer", "action": "click", "state": "Delphinapterus_leucas - Ensembl genome browser 114"}
+{"agent": "WebSurfer", "action": "click", "state": "Downloads"}
+{"agent": "WebSurfer", "action": "click", "state": "browser back button"}
+{"agent": "WebSurfer", "action": "type", "state": "https://mart.ensembl.org/Delphinapterus_leucas/Info/Index"}
+{"agent": "WebSurfer", "action": "type", "state": "most recent GFF3 file for beluga whales as of 20/10/2020 NCBI Ensembl"}

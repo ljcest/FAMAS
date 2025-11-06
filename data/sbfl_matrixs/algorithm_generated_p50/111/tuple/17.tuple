@@ -1,0 +1,2 @@
+{"agent": "DataAnalysis_Expert", "action": "write script", "state": "create mock dataset and analyze it for rainy days in Seattle"}
+{"agent": "Verification_Expert", "action": "correct", "state": "Ensure the precipitation data matches the date range correctly"}

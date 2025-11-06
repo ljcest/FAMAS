@@ -1,0 +1,2 @@
+{"agent": "VideoContentAnalysis_Expert", "action": "clarify", "state": "need video or content details to extract the command"}
+{"agent": "VideoContentAnalysis_Expert", "action": "guide", "state": "Explore the video and find the relevant command"}

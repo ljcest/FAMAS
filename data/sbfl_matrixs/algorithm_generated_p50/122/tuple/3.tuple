@@ -1,0 +1,3 @@
+{"agent": "Accessibility_Expert", "action": "perform manual search", "state": "gather information about Grace and Proper's wheelchair accessibility"}
+{"agent": "Accessibility_Expert", "action": "verify", "state": "wheelchair accessibility of Grace and Proper, 2nd Street Brew House, O'Jung's Tavern Bar, and Garage Passyunk"}
+{"agent": "BingAPI_Expert", "action": "search", "state": "wheelchair accessibility information for Grace and Proper"}

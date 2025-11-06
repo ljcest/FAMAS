@@ -1,0 +1,2 @@
+{"agent": "DataExtraction_Expert", "action": "write script", "state": "scrape the latest 2022 Lego English Wikipedia article for images"}
+{"agent": "DataVerification_Expert", "action": "revise script", "state": "handle different image formats and structures"}

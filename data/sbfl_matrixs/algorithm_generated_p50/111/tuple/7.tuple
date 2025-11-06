@@ -1,0 +1,2 @@
+{"agent": "DataAnalysis_Expert", "action": "offer", "state": "generate a mock dataset for analysis purposes"}
+{"agent": "DataAnalysis_Expert", "action": "request", "state": "historical weather data for Seattle for the first week of September from 2020 to 2023"}

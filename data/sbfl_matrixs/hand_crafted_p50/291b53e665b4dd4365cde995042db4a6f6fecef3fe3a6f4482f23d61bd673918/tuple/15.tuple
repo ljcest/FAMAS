@@ -1,0 +1,7 @@
+{"agent": "MagenticOneOrchestrator", "action": "navigate", "state": "Download GFF3 files for genes, cDNAs, ncRNA, proteins section on the current page"}
+{"agent": "MagenticOneOrchestrator", "action": "navigate", "state": "Ensembl and NCBI links provided in the search results"}
+{"agent": "MagenticOneOrchestrator", "action": "plan", "state": "Identify the Source"}
+{"agent": "MagenticOneOrchestrator", "action": "search", "state": "the most recent GFF3 file for beluga whales as of 20/10/2020 on NCBI and Ensembl"}
+{"agent": "WebSurfer", "action": "click", "state": "Delphinapterus_leucas - Ensembl genome browser 114"}
+{"agent": "WebSurfer", "action": "click", "state": "GFF3"}
+{"agent": "WebSurfer", "action": "type", "state": "most recent GFF3 file for beluga whales as of 20/10/2020 NCBI Ensembl"}

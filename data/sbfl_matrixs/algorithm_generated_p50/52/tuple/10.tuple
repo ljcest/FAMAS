@@ -1,0 +1,2 @@
+{"agent": "ISBNCheckDigit_Expert", "action": "modify script", "state": "ensure the check digit is printed correctly"}
+{"agent": "ISBNCheckDigit_Expert", "action": "plan", "state": "Compute the check digit for the Tropicos ID for the Order Helotiales as if it were an ISBN-10 number"}

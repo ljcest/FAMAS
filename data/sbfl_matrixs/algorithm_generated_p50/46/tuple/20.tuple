@@ -1,0 +1,2 @@
+{"agent": "Behavioral_Expert", "action": "analyze", "state": "Apply logical reasoning to determine the number of vampires based on the consistency of the statements"}
+{"agent": "Validation_Expert", "action": "validate", "state": "Verify the logical reasoning step-by-step to ensure no inconsistencies exist in the solution"}

@@ -1,0 +1,2 @@
+{"agent": "Cubing_Expert", "action": "deduce", "state": "colors of the removed cube based on given constraints"}
+{"agent": "Verification_Expert", "action": "correct", "state": "output format for the colors of the removed cube"}

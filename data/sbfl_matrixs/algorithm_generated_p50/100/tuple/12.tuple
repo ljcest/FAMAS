@@ -1,0 +1,2 @@
+{"agent": "Movie_Expert", "action": "verify", "state": "IMDB rating for Layer Cake"}
+{"agent": "StreamingService_Expert", "action": "revise", "state": "check Netflix availability using a direct query method"}

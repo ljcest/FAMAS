@@ -1,0 +1,3 @@
+{"agent": "Verification_Expert", "action": "suggest", "state": "obtain a valid YouTube Data API key to proceed with the video search"}
+{"agent": "Video_Analyst_Expert", "action": "suggest", "state": "perform manual search on YouTube to locate the specific video"}
+{"agent": "Video_Analyst_Expert", "action": "write script", "state": "search for relevant videos using the YouTube Data API"}

@@ -1,0 +1,3 @@
+{"agent": "Chess_Expert", "action": "request", "state": "description of the chess position"}
+{"agent": "Chess_Expert", "action": "request", "state": "provide the current chess position in standard notation"}
+{"agent": "Chess_Expert", "action": "wait", "state": "for information about the current chess position"}

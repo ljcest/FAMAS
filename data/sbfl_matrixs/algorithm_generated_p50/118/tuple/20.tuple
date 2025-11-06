@@ -1,0 +1,2 @@
+{"agent": "Statistics_Expert", "action": "outline steps", "state": "Collect historical weather data, load and analyze the data, calculate the percentage, verify the results"}
+{"agent": "Verification_Expert", "action": "revise codes", "state": "generate synthetic dataset and perform the analysis"}

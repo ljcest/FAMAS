@@ -1,0 +1,3 @@
+{"agent": "WikipediaHistory_Expert", "action": "scrape", "state": "Wikipedia Featured Article promotions page for November 2016"}
+{"agent": "WikipediaHistory_Expert", "action": "update script", "state": "use a more specific header keyword to scrape the table data"}
+{"agent": "Wikipedia_Editor_Expert", "action": "request", "state": "list of articles promoted to Featured Article status in November 2016, focusing on dinosaur-related articles"}

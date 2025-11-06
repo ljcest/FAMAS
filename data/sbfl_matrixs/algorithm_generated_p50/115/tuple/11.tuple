@@ -1,0 +1,2 @@
+{"agent": "ProblemSolving_Expert", "action": "agree", "state": "calculations provided by Verification_Expert are accurate"}
+{"agent": "Verification_Expert", "action": "verify", "state": "Confirm the cost of a daily ticket and a season pass for California's Great America in 2024"}

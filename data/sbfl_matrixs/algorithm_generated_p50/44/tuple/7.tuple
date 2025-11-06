@@ -1,0 +1,3 @@
+{"agent": "GraphicDesign_Expert", "action": "suggest", "state": "gather existing information about the symbol"}
+{"agent": "WebDevelopment_Expert", "action": "guide", "state": "verification process once symbol details are provided"}
+{"agent": "Web_Design_Expert", "action": "request", "state": "details or description of the symbol from Eva Draconis's website"}

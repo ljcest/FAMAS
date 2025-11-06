@@ -1,0 +1,2 @@
+{"agent": "Movie_Expert", "action": "filter", "state": "Daniel Craig movies based on duration and IMDB ratings"}
+{"agent": "StreamingService_Expert", "action": "list", "state": "notable Daniel Craig movies"}

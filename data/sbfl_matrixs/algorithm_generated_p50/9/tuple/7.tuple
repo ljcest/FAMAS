@@ -1,0 +1,2 @@
+{"agent": "GameTheory_Expert", "action": "analyze", "state": "break down the problem step by step as per the plan given"}
+{"agent": "VerificationExpert", "action": "verify", "state": "recap and verify the calculations and optimal strategy"}

@@ -1,0 +1,2 @@
+{"agent": "VSCode_Expert", "action": "reiterate", "state": "common command to remove extra lines is Format Document"}
+{"agent": "VideoContentAnalysis_Expert", "action": "inform", "state": "task requires human interpretation of video content"}

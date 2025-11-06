@@ -1,0 +1,2 @@
+{"agent": "RecyclingRate_Expert", "action": "adjust script", "state": "modify code to retrieve more relevant paragraphs about recycling rates"}
+{"agent": "RecyclingRate_Expert", "action": "write script", "state": "fetch recycling rates from Wikipedia"}

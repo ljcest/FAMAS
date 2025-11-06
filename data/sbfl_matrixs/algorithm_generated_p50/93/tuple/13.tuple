@@ -1,0 +1,2 @@
+{"agent": "FilmCritic_Expert", "action": "verify", "state": "the object is a gold-colored plane"}
+{"agent": "MovieProp_Expert", "action": "identify", "state": "color of the object in the film Goldfinger"}

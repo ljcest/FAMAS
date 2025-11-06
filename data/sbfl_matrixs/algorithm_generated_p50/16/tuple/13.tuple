@@ -1,0 +1,3 @@
+{"agent": "Verification_Expert", "action": "inform", "state": "need a valid YouTube Data API key to proceed with the search"}
+{"agent": "Video_Analyst_Expert", "action": "proceed manually", "state": "search YouTube for the 360 VR video narrated by Andy Serkis from March 2018"}
+{"agent": "Video_Analyst_Expert", "action": "write script", "state": "use YouTube Data API to locate the specific video narrated by Andy Serkis"}

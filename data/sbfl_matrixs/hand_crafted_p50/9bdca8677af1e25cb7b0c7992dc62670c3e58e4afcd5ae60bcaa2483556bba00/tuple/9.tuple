@@ -1,0 +1,10 @@
+{"agent": "Assistant", "action": "guide", "state": "calling FedEx customer service number at 1-800-463-3339"}
+{"agent": "MagenticOneOrchestrator", "action": "instruct", "state": "Please navigate to the USPS shipping calculator and input the following details"}
+{"agent": "MagenticOneOrchestrator", "action": "instruct", "state": "WebSurfer to contact DHL customer service"}
+{"agent": "MagenticOneOrchestrator", "action": "instruct", "state": "navigate to FedEx shipping calculator page and fill out form with specified details"}
+{"agent": "MagenticOneOrchestrator", "action": "plan", "state": "address the user request for the cheapest shipping option to mail a DVD to Colombia from Hartford, Connecticut using FedEx, DHL, or USPS"}
+{"agent": "MagenticOneOrchestrator", "action": "update", "state": "We are working to address the following user request"}
+{"agent": "WebSurfer", "action": "click", "state": "Calculate a Price"}
+{"agent": "WebSurfer", "action": "click", "state": "Send"}
+{"agent": "WebSurfer", "action": "type", "state": "Colombia"}
+{"agent": "WebSurfer", "action": "type", "state": "https://www.usps.com"}

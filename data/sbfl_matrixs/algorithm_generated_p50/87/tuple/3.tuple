@@ -1,0 +1,3 @@
+{"agent": "DataVerification_Expert", "action": "search", "state": "Robert Christgau's reviews for Tidal and Harbinger using Bing Search API"}
+{"agent": "MusicHistorian_Expert", "action": "list", "state": "albums released by Fiona Apple and Paula Cole before 1999"}
+{"agent": "Music_Critic_Expert", "action": "propose", "state": "manual verification of Robert Christgau's reviews"}

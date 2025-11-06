@@ -1,0 +1,3 @@
+{"agent": "WebDevelopment_Expert", "action": "suggest", "state": "verify findings once the symbol is identified and provide steps to proceed"}
+{"agent": "Web_Design_Expert", "action": "inform", "state": "need URL to proceed with analysis"}
+{"agent": "Web_Design_Expert", "action": "request information", "state": "ask for the website link or specifics about the website's banner"}

@@ -1,0 +1,2 @@
+{"agent": "ArithmeticProgressions_Expert", "action": "request", "state": "verified prices of a daily ticket and a season pass for California's Great America in 2024"}
+{"agent": "Verification_Expert", "action": "verify", "state": "costs of daily ticket and season pass for California's Great America in 2024"}

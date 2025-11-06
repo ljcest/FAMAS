@@ -1,0 +1,2 @@
+{"agent": "Geometry_Expert", "action": "suggest", "state": "Use OCR to extract polygon details from the image"}
+{"agent": "Validation_Expert", "action": "request", "state": "Geometry_Expert to confirm polygon type and side lengths from the image"}

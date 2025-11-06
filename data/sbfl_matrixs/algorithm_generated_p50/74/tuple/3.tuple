@@ -1,0 +1,3 @@
+{"agent": "MerriamWebsterWordOfTheDay_Historian_Expert", "action": "provide", "state": "Word of the Day for June 27, 2022 was queasy"}
+{"agent": "Quotation_Specialist", "action": "request", "state": "Word of the Day for June 27, 2022, and relevant details"}
+{"agent": "Quotation_Specialist", "action": "search", "state": "quotation and author for the word abrogate"}

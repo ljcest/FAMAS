@@ -1,0 +1,2 @@
+{"agent": "Verification_Expert", "action": "update script", "state": "output the final simplified fractions in the required format"}
+{"agent": "Verification_Expert", "action": "verify", "state": "simplify and verify the extracted fractions"}

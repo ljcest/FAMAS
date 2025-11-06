@@ -1,0 +1,3 @@
+{"agent": "Culinary_Expert", "action": "confirm", "state": "Culinary_Expert"}
+{"agent": "Culinary_Expert", "action": "request", "state": "share the transcription text or provide access to it"}
+{"agent": "TranscriptionVerification_Expert", "action": "analyze", "state": "extract ingredients from the transcription text"}

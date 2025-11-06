@@ -1,0 +1,3 @@
+{"agent": "OpenCV_Expert", "action": "describe steps", "state": "Identify contributors to OpenCV 4.1.2, list former Chinese heads of government, compare names"}
+{"agent": "OpenCV_Expert", "action": "execute command", "state": "clone OpenCV repository and retrieve contributor information"}
+{"agent": "Verification_Expert", "action": "suggest alternative", "state": "use GitHub API to fetch contributors for OpenCV 4.1.2"}

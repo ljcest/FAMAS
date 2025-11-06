@@ -1,0 +1,3 @@
+{"agent": "AnimalBehavior_Expert", "action": "agree", "state": "with the approach and request for specific details about the bird"}
+{"agent": "BirdSpeciesIdentification_Expert", "action": "request", "state": "specific details about the bird seen in the video"}
+{"agent": "Ornithology_Expert", "action": "assist", "state": "analyze any features described by others to identify the bird species"}

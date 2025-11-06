@@ -1,0 +1,17 @@
+{"agent": "MagenticOneOrchestrator", "action": "instruct", "state": "Filter the search results to include only Fidelity International Emerging Markets Equity mutual funds with $0 transaction fees. Then, for each of these funds, collect the net asset value (NAV) or share price for May 2019 and May 2024."}
+{"agent": "MagenticOneOrchestrator", "action": "instruct", "state": "Go to the Fidelity International website (https://www.fidelityinternational.com). Select 'United Kingdom' as the location. Navigate to the 'Funds' section. Use the search function to look for 'Emerging Markets Equity mutual funds' and apply the filter for $0 transaction fees. Collect the names and identifiers (e.g., ISIN codes) of the relevant funds."}
+{"agent": "MagenticOneOrchestrator", "action": "instruct", "state": "Navigate to the Fidelity International website and find the section that lists all Emerging Markets Equity mutual funds. Filter the results to include only those with $0 transaction fees. Provide a list of the funds that meet these criteria."}
+{"agent": "MagenticOneOrchestrator", "action": "instruct", "state": "Navigate to the section of the website that lists Fidelity International Emerging Markets Equity mutual funds. Once there, filter the results to include only those with $0 transaction fees."}
+{"agent": "MagenticOneOrchestrator", "action": "instruct", "state": "Search for 'Fidelity International Emerging Markets Equity mutual funds' and filter the results to include only those with $0 transaction fees. Provide a list of the funds that meet these criteria."}
+{"agent": "MagenticOneOrchestrator", "action": "instruct", "state": "Select 'I am a personal investor' and proceed to the next page."}
+{"agent": "MagenticOneOrchestrator", "action": "instruct", "state": "Select 'United Kingdom' and proceed to the next page."}
+{"agent": "MagenticOneOrchestrator", "action": "plan", "state": "Identify Fidelity International Emerging Markets Equity Mutual Funds with $0 Transaction Fees"}
+{"agent": "WebSurfer", "action": "click", "state": "Funds"}
+{"agent": "WebSurfer", "action": "click", "state": "International Equity ? (0/19)"}
+{"agent": "WebSurfer", "action": "click", "state": "Personal Investors"}
+{"agent": "WebSurfer", "action": "click", "state": "Products & services"}
+{"agent": "WebSurfer", "action": "click", "state": "United Kingdom"}
+{"agent": "WebSurfer", "action": "type", "state": "Fidelity International Emerging Markets Equity Funds"}
+{"agent": "WebSurfer", "action": "type", "state": "Fidelity international emerging markets equity mutual funds with $0 transaction fees"}
+{"agent": "WebSurfer", "action": "type", "state": "Fidelity international emerging markets equity mutual funds with no transaction fees site:fidelity.com"}
+{"agent": "WebSurfer", "action": "type", "state": "https://www.fidelityinternational.com"}

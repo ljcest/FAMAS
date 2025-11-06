@@ -1,0 +1,9 @@
+{"agent": "MagenticOneOrchestrator", "action": "plan", "state": "Identify the version of OpenCV with Mask-RCNN support and list contributors to that version"}
+{"agent": "MagenticOneOrchestrator", "action": "scroll", "state": "down further and find the section in the OpenCV 4.0-alpha release notes that mentions the addition of Mask-RCNN support. Extract the names of the contributors involved in this feature"}
+{"agent": "MagenticOneOrchestrator", "action": "search", "state": "the release notes or commit history for OpenCV 4.0 to find the contributors specifically associated with the addition of Mask-RCNN support"}
+{"agent": "MagenticOneOrchestrator", "action": "search", "state": "the specific version of OpenCV where support for the Mask-RCNN model was added"}
+{"agent": "WebSurfer", "action": "click", "state": "ChangeLog \u00b7 opencv/opencv Wiki \u00b7 GitHub"}
+{"agent": "WebSurfer", "action": "click", "state": "Support Mask RCNN models \u00b7 Issue #11412 \u00b7 opencv/opencv"}
+{"agent": "WebSurfer", "action": "scroll", "state": "down one page in the browser"}
+{"agent": "WebSurfer", "action": "type", "state": "OpenCV release notes Mask-RCNN support"}
+{"agent": "WebSurfer", "action": "type", "state": "OpenCV version with Mask-RCNN support"}

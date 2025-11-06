@@ -1,0 +1,3 @@
+{"agent": "Ornithologist_Expert", "action": "plan", "state": "Download the video and extract frames using the provided Python script"}
+{"agent": "VideoProcessing_Expert", "action": "download", "state": "the video from the provided link"}
+{"agent": "YouTubeDownload_Expert", "action": "install", "state": "yt-dlp"}

@@ -1,0 +1,2 @@
+{"agent": "Python_Expert", "action": "write script", "state": "use image processing techniques to isolate the colors and extract the numbers"}
+{"agent": "Statistics_Expert", "action": "propose", "state": "Install OpenCV via pip"}

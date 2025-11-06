@@ -1,0 +1,3 @@
+{"agent": "ImageProcessing_Expert", "action": "execute", "state": "Perform OCR on the provided image to extract text and identify fractions"}
+{"agent": "ImageProcessing_Expert", "action": "install", "state": "install pytesseract and Pillow libraries"}
+{"agent": "ProblemSolving_Expert", "action": "suggest", "state": "Use pytesseract for OCR extraction"}

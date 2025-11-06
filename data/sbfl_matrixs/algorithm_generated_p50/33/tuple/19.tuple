@@ -1,0 +1,2 @@
+{"agent": "DOI_Expert", "action": "write script", "state": "access the book using the provided DOI and navigate to the specified page"}
+{"agent": "InformationExtraction_Expert", "action": "suggest", "state": "try to fetch the PDF of the book using the DOI and extract page 11"}

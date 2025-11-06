@@ -1,0 +1,3 @@
+{"agent": "Hiking_Expert", "action": "create mock dataset", "state": "generate sample data for trail analysis"}
+{"agent": "Reviews_Expert", "action": "outline", "state": "Identify and analyze popular hiking trails in Yosemite National Park"}
+{"agent": "Reviews_Expert", "action": "write script", "state": "filter and analyze trails based on criteria"}

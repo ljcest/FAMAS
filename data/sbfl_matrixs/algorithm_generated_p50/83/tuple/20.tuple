@@ -1,0 +1,2 @@
+{"agent": "DataAnalysis_Expert", "action": "explore", "state": "Explore the already downloaded placeholder dataset nonindigenous_aquatic_species.csv"}
+{"agent": "DataVerification_Expert", "action": "investigate", "state": "examine the CSV file to identify parsing issues"}

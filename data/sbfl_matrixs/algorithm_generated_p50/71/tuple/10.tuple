@@ -1,0 +1,2 @@
+{"agent": "DataAnalysis_Expert", "action": "refine script", "state": "adjust the code to count images more accurately"}
+{"agent": "DataExtraction_Expert", "action": "write script", "state": "extract the HTML content of the latest 2022 Lego Wikipedia article"}

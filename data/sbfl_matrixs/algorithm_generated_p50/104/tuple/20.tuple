@@ -1,0 +1,3 @@
+{"agent": "Bioinformatics_Expert", "action": "plan", "state": "Analyze and resolve the issue causing the code execution to fail"}
+{"agent": "PythonDebugging_Expert", "action": "propose", "state": "a generic solution to test the execution environment"}
+{"agent": "Validation_Expert", "action": "request", "state": "provide the segment of code causing the issue"}

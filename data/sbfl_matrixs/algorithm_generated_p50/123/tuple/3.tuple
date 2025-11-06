@@ -1,0 +1,2 @@
+{"agent": "Geospatial_Expert", "action": "provide code", "state": "geocode addresses and calculate walking distances"}
+{"agent": "Paintball_Expert", "action": "provide command", "state": "install geopy library"}

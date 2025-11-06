@@ -1,0 +1,2 @@
+{"agent": "Geography_Expert", "action": "write script", "state": "fetch the relevant data for these county seats"}
+{"agent": "Validation_Expert", "action": "revise codes", "state": "add error handling and print response text for debugging"}

@@ -1,0 +1,3 @@
+{"agent": "Data_Analysis_Expert", "action": "ask", "state": "how to proceed with obtaining the sales data for both properties"}
+{"agent": "HawaiiRealEstate_Expert", "action": "gather data", "state": "get sales data for 2072 Akaikai Loop and 2017 Komo Mai Drive"}
+{"agent": "HawaiiRealEstate_Expert", "action": "suggest", "state": "use a dataset or an online resource like Zillow or Redfin to look up the sales history of the two properties"}

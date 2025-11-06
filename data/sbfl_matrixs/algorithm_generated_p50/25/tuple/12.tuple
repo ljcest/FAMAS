@@ -1,0 +1,3 @@
+{"agent": "ModelEvaluation_Interpretation_Expert", "action": "inform", "state": "AI regulation expert has not shared label words yet"}
+{"agent": "Physics_Expert", "action": "request", "state": "Provide label words from June 2022 AI regulation paper"}
+{"agent": "Verification_Expert", "action": "recommend", "state": "collaborate to obtain label words from June 2022 paper"}

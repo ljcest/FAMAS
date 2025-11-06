@@ -1,0 +1,4 @@
+{"agent": "MarineLifeData_Expert", "action": "determine", "state": "what #9 refers to in the context of the Coral Bleaching video"}
+{"agent": "MarineLifeData_Expert", "action": "inform", "state": "cannot directly execute search on external websites"}
+{"agent": "MarineLifeData_Expert", "action": "search", "state": "first National Geographic short on YouTube"}
+{"agent": "MarineLifeData_Expert", "action": "search", "state": "look up the maximum length of #9 on the Monterey Bay Aquarium website"}

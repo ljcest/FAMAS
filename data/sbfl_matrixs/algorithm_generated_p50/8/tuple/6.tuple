@@ -1,0 +1,2 @@
+{"agent": "Excel_Expert", "action": "check", "state": "locate END cell and blue cells"}
+{"agent": "Excel_Expert", "action": "execute", "state": "load the Excel file and display the first few rows"}

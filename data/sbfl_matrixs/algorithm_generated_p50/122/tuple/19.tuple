@@ -1,0 +1,4 @@
+{"agent": "Accessibility_Expert", "action": "confirm", "state": "address of Mummers Museum and wheelchair accessibility of specified bars"}
+{"agent": "BingAPI_Expert", "action": "search", "state": "wheelchair accessibility information for Grace and Proper"}
+{"agent": "BingAPI_Expert", "action": "test", "state": "simplified code to check accessibility for one bar, Grace and Proper"}
+{"agent": "Verification_Expert", "action": "recommend", "state": "simulating search for accessibility information for each bar"}

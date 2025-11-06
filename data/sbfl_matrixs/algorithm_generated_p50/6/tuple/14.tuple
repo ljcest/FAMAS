@@ -1,0 +1,2 @@
+{"agent": "NorseMythology_Expert", "action": "write script", "state": "find Emily Midkiff's June 2014 article in the journal Fafnir"}
+{"agent": "Verification_Expert", "action": "adjust approach", "state": "search for articles via CrossRef API"}

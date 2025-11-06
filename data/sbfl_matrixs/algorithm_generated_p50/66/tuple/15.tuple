@@ -1,0 +1,2 @@
+{"agent": "BiblicalScholar_Expert", "action": "analyze", "state": "the Book of Esther to find the first named place"}
+{"agent": "Verification_Expert", "action": "verify", "state": "information provided by BiblicalScholar_Expert"}

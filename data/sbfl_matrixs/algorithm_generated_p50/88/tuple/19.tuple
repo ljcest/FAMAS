@@ -1,0 +1,3 @@
+{"agent": "DataValidation_Expert", "action": "instruct", "state": "download and save Apple stock data as apple_stock_data.csv"}
+{"agent": "DataValidation_Expert", "action": "provide", "state": "Python code to load and process the stock data"}
+{"agent": "FinancialData_Expert", "action": "plan", "state": "Determine the first year the Apple stock went above $50 according to Google Finance"}

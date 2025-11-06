@@ -1,0 +1,2 @@
+{"agent": "DataExtraction_Expert", "action": "write script", "state": "extract data from the document using python-docx"}
+{"agent": "Validation_Expert", "action": "execute", "state": "Extract the text from the provided document using OCR"}

@@ -1,0 +1,2 @@
+{"agent": "JamesBondFilms_Expert", "action": "describe", "state": "scene in Goldfinger where Bond and Galore hide in a compartment of a plane"}
+{"agent": "MovieProp_Expert", "action": "confirm", "state": "color of the compartment in the plane is silver"}

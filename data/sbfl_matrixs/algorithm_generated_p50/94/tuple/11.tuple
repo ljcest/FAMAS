@@ -1,0 +1,4 @@
+{"agent": "AnimalBehavior_Expert", "action": "refocus", "state": "behavioral aspects and characteristics for identification"}
+{"agent": "BirdSpeciesIdentification_Expert", "action": "gather", "state": "review the video and note distinctive features of the bird"}
+{"agent": "BirdSpeciesIdentification_Expert", "action": "summarize", "state": "consolidate findings based on characteristics discussed"}
+{"agent": "Ornithology_Expert", "action": "refine approach", "state": "discuss characteristics of parrots, crows, and puffins"}

@@ -1,0 +1,3 @@
+{"agent": "Geometry_Expert", "action": "outline", "state": "Steps to calculate the area of the polygon"}
+{"agent": "MathAnalysis_Expert", "action": "reiterate", "state": "steps to confirm measurements and calculate area"}
+{"agent": "Validation_Expert", "action": "request", "state": "provide polygon type, side lengths, angles, and heights"}

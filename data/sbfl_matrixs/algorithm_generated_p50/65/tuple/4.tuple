@@ -1,0 +1,3 @@
+{"agent": "VideoContentAnalysis_Expert", "action": "advise", "state": "methods to find the command in the 2018 VSCode blog post"}
+{"agent": "VideoContentAnalysis_Expert", "action": "advise", "state": "steps to find and analyze the video content"}
+{"agent": "VideoContentAnalysis_Expert", "action": "clarify", "state": "understand the lack of code and provide further guidance"}

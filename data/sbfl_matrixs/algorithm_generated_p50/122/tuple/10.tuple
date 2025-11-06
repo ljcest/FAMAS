@@ -1,0 +1,2 @@
+{"agent": "Accessibility_Expert", "action": "verify", "state": "wheelchair accessibility of the identified bars"}
+{"agent": "BingAPI_Expert", "action": "provide", "state": "install geopy module"}

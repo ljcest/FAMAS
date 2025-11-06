@@ -1,0 +1,2 @@
+{"agent": "AquaticEcosystems_InvasiveSpecies_Expert", "action": "write script", "state": "access the USGS Nonindigenous Aquatic Species database and extract the relevant information regarding Amphiprion ocellaris"}
+{"agent": "Scientific_Verification_Expert", "action": "debug", "state": "add debugging output to inspect table contents"}

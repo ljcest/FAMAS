@@ -1,0 +1,2 @@
+{"agent": "Literature_Expert", "action": "write script", "state": "access the book content using the DOI"}
+{"agent": "Literature_Expert", "action": "write script", "state": "extract the relevant section from Chapter 2"}

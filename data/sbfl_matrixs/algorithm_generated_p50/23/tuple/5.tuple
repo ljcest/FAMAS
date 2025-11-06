@@ -1,0 +1,3 @@
+{"agent": "Art_Historian_Expert", "action": "identify", "state": "portrait with accession number 29.100.5 depicts Saint John the Evangelist"}
+{"agent": "Church_Historian_Expert", "action": "outline steps", "state": "look up the portrait, research the subject, identify consecrators and co-consecrators"}
+{"agent": "DataVerification_Expert", "action": "assist", "state": "use Bing Search API to gather information about the portrait"}

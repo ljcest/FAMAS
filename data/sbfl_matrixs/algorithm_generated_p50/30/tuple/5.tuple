@@ -1,0 +1,3 @@
+{"agent": "AudioProcessing_Expert", "action": "request", "state": "transcribed text for ingredient extraction"}
+{"agent": "Culinary_Expert", "action": "request", "state": "Provide the transcription text to identify the ingredients"}
+{"agent": "TranscriptionVerification_Expert", "action": "inform", "state": "will transcribe the audio file using Google Cloud Speech-to-Text API"}

@@ -1,0 +1,2 @@
+{"agent": "AlgorithmDesign_Expert", "action": "update script", "state": "modify the code to print the entire sheet to identify START and END cells"}
+{"agent": "Excel_Expert", "action": "execute", "state": "Load the Excel file and display the data to locate START and END cells"}

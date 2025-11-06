@@ -1,0 +1,3 @@
+{"agent": "ModelEvaluation_Interpretation_Expert", "action": "suggest", "state": "Manually specify June 2022 AI regulation paper and extract label words"}
+{"agent": "Physics_Expert", "action": "propose", "state": "Perform manual search for arXiv IDs of the required papers"}
+{"agent": "Verification_Expert", "action": "adapt", "state": "search for axes labels in the text of the AI regulation paper"}

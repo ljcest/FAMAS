@@ -1,0 +1,2 @@
+{"agent": "DataExtraction_Expert", "action": "suggest", "state": "switch to Firefox or address environment issues"}
+{"agent": "DataVerification_Expert", "action": "suggest", "state": "Install selenium and webdriver-manager packages"}

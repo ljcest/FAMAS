@@ -1,0 +1,3 @@
+{"agent": "Fitness_Expert", "action": "troubleshoot", "state": "modify code to handle response and print error messages"}
+{"agent": "Local_Knowledge_Expert", "action": "identify", "state": "gyms near Tompkins Square Park"}
+{"agent": "Local_Knowledge_Expert", "action": "write script", "state": "use mapping API to find gyms within 200 meters of Tompkins Square Park"}

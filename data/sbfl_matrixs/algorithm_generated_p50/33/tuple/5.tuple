@@ -1,0 +1,2 @@
+{"agent": "DOI_Expert", "action": "access", "state": "book using the provided DOI"}
+{"agent": "DOI_Expert", "action": "navigate", "state": "to page 11 and locate the second-to-last paragraph"}

@@ -1,0 +1,2 @@
+{"agent": "MartialArts_Expert", "action": "write script", "state": "simulate a search for martial arts schools based on parameters"}
+{"agent": "NYC_Local_Expert", "action": "refine search", "state": "adjust the code for better output management"}

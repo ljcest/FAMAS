@@ -1,0 +1,2 @@
+{"agent": "AlgorithmDesign_Expert", "action": "implement", "state": "function to find START and END positions"}
+{"agent": "Excel_Expert", "action": "execute", "state": "load Excel file and display data"}

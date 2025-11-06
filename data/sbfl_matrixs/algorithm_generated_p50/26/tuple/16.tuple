@@ -1,0 +1,2 @@
+{"agent": "DataVerification_Expert", "action": "propose", "state": "conduct an online search using the Bing Search API to find information from Girls Who Code"}
+{"agent": "Statistics_Expert", "action": "analyze", "state": "Identify the starting and final percentages and determine the number of years for the change"}

@@ -1,0 +1,4 @@
+{"agent": "Linguistics_Expert", "action": "analyze", "state": "lyrics to confirm the last word before the second chorus"}
+{"agent": "Lyrics_Expert", "action": "analyze", "state": "lyrics to identify the second chorus and last word before it"}
+{"agent": "Lyrics_Expert", "action": "plan", "state": "Identify the last word before the second chorus of Michael Jackson's song Thriller"}
+{"agent": "MusicHistorian_Expert", "action": "verify", "state": "details about the single and lyrics"}

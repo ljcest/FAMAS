@@ -1,0 +1,2 @@
+{"agent": "DataVerification_Expert", "action": "clarify", "state": "confirm the initial task is to calculate the number of years for the percentage of women in computer science to drop from 37% to 24%"}
+{"agent": "Statistics_Expert", "action": "analyze", "state": "Identify the starting and final percentages and determine the number of years for the change"}

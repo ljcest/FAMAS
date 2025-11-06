@@ -1,0 +1,2 @@
+{"agent": "PolishLanguage_Expert", "action": "search", "state": "perform a web search to find out who played Ray Barone in the Polish-language version of 'Everybody Loves Raymond'"}
+{"agent": "Polish_TV_Series_Expert", "action": "identify", "state": "Bartosz Opania played Ray Barone in the Polish-language version of 'Everybody Loves Raymond'"}

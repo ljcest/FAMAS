@@ -1,0 +1,2 @@
+{"agent": "ProblemSolving_Expert", "action": "modify script", "state": "implement necessary logic directly in the script"}
+{"agent": "Verification_Expert", "action": "verify", "state": "simplify and remove unsimplified fractions from the final result"}

@@ -1,0 +1,3 @@
+{"agent": "DoctorWhoScript_Expert", "action": "refer to script", "state": "INT. THE MAZE - DAY"}
+{"agent": "Validation_Expert", "action": "confirm", "state": "INT. THE MAZE - DAY looks accurate"}
+{"agent": "VideoAnalysis_Expert", "action": "provide context", "state": "maze represents a literal and metaphorical challenge for the Doctor"}

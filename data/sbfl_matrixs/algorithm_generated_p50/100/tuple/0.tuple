@@ -1,0 +1,2 @@
+{"agent": "Movie_Expert", "action": "suggest", "state": "alternative approach for checking availability of Casino Royale (2006)"}
+{"agent": "StreamingService_Expert", "action": "verify", "state": "availability of Casino Royale (2006) on Netflix US"}

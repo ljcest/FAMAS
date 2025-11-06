@@ -1,0 +1,4 @@
+{"agent": "Research_Expert", "action": "inform", "state": "FuboTV went public on October 8, 2020"}
+{"agent": "Research_Expert", "action": "research", "state": "confirm the year of Fubo's IPO and gather joining years of management team members"}
+{"agent": "Research_Expert", "action": "search", "state": "Find the IPO year of Fubo"}
+{"agent": "Validation_Expert", "action": "request", "state": "Share the results of the IPO year research"}

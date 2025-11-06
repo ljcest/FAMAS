@@ -1,0 +1,3 @@
+{"agent": "AquaticEcosystems_InvasiveSpecies_Expert", "action": "confirm", "state": "confirm the zip codes for Amphiprion ocellaris as a nonnative species"}
+{"agent": "GIS_DataAnalysis_Expert", "action": "propose", "state": "structured approach for data verification and visualization"}
+{"agent": "Scientific_Verification_Expert", "action": "propose", "state": "cross-verification approach for Amphiprion ocellaris zip codes"}

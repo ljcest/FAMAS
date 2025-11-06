@@ -1,0 +1,3 @@
+{"agent": "WebDevelopment_Expert", "action": "inform", "state": "cannot access the internet to check the website"}
+{"agent": "Web_Design_Expert", "action": "access", "state": "Eva Draconis's personal website through her YouTube page"}
+{"agent": "Web_Design_Expert", "action": "request", "state": "details or description of the symbol from Eva Draconis's website"}

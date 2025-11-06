@@ -1,0 +1,3 @@
+{"agent": "MarineLifeData_Expert", "action": "estimate", "state": "assume #9 is the Great White Shark and estimate its maximum length"}
+{"agent": "MarineLifeData_Expert", "action": "search", "state": "Identify the first National Geographic short on YouTube and gather details about #9"}
+{"agent": "MarineLifeData_Expert", "action": "search", "state": "look up the maximum length of #9 on the Monterey Bay Aquarium website"}

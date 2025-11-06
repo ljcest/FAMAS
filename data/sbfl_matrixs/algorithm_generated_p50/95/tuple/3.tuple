@@ -1,0 +1,2 @@
+{"agent": "AcademicPublication_Expert", "action": "search", "state": "paper authors in Google Scholar"}
+{"agent": "AcademicPublication_Expert", "action": "suggest", "state": "install the scholarly package and rerun the search"}

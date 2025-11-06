@@ -1,0 +1,3 @@
+{"agent": "RecyclingRate_Expert", "action": "inform", "state": "recycling rate for plastic water bottles is around 30% according to Wikipedia"}
+{"agent": "RecyclingRate_Expert", "action": "request", "state": "latest recycling rate for plastic water bottles from Wikipedia"}
+{"agent": "RecyclingRate_Expert", "action": "verify", "state": "recycling rate for water bottles from Wikipedia"}

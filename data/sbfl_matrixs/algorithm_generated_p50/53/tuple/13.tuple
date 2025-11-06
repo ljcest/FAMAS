@@ -1,0 +1,2 @@
+{"agent": "Data_Extraction_Expert", "action": "write script", "state": "extract the list of High Energy Physics - Lattice articles from Arxiv for January 2020"}
+{"agent": "Verification_Expert", "action": "write script", "state": "parse the extracted data and check which articles have ps versions"}

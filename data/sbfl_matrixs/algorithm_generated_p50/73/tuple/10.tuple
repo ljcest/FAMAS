@@ -1,0 +1,3 @@
+{"agent": "DoctorWhoScript_Expert", "action": "extract", "state": "INT. THE MAZE from the official script"}
+{"agent": "Validation_Expert", "action": "propose", "state": "verify the heading against a CSV file or database"}
+{"agent": "Validation_Expert", "action": "validate", "state": "confirm setting based on known information"}

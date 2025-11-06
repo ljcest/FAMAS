@@ -1,0 +1,2 @@
+{"agent": "Baseball_Expert", "action": "search", "state": "manually check NPB website for players with jersey numbers 18 and 20"}
+{"agent": "Validation_Expert", "action": "validate", "state": "find pitchers with jersey numbers 18 and 20"}

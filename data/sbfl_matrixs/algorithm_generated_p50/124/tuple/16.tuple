@@ -1,0 +1,2 @@
+{"agent": "Research_Expert", "action": "search", "state": "Find the IPO year of Fubo"}
+{"agent": "Validation_Expert", "action": "refine script", "state": "include parsing the filing document's text for specific details about the IPO date"}

@@ -1,0 +1,2 @@
+{"agent": "DemographicData_Expert", "action": "execute", "state": "retrieve and calculate gender split data from 2011 Bulgarian census"}
+{"agent": "DemographicData_Expert", "action": "update script", "state": "include print statement to display the result of the calculation"}

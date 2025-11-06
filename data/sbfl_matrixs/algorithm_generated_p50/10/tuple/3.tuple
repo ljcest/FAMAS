@@ -1,0 +1,2 @@
+{"agent": "Geography_Expert", "action": "write script", "state": "access 2020 census data from data.census.gov and calculate population difference"}
+{"agent": "Validation_Expert", "action": "revise script", "state": "check URL and handle potential errors in API call"}

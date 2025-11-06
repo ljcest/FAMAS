@@ -1,0 +1,4 @@
+{"agent": "AnimalBehavior_Expert", "action": "guide", "state": "observe and collect information about the bird's characteristics in the video"}
+{"agent": "BirdSpeciesIdentification_Expert", "action": "recommend", "state": "check the video and note the bird's characteristics"}
+{"agent": "Ornithology_Expert", "action": "advise", "state": "pay attention to size, color, behavior, vocalizations, and distinct features of the bird"}
+{"agent": "Ornithology_Expert", "action": "request", "state": "specific details about the bird's characteristics from the video"}

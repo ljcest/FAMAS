@@ -1,0 +1,2 @@
+{"agent": "Data_Retrieval_Expert", "action": "start", "state": "Scrape the Wikipedia table for penguin species populations"}
+{"agent": "PopulationData_Expert", "action": "modify", "state": "Import the necessary function to scrape Wikipedia tables"}

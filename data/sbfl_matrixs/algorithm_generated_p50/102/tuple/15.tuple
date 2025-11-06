@@ -1,0 +1,2 @@
+{"agent": "Filmography_Expert", "action": "compile list", "state": "feature films starring Isabelle Adjani with runtimes"}
+{"agent": "IMDB_Ratings_Expert", "action": "check", "state": "availability of films on Vudu and prepare to fetch IMDB ratings"}

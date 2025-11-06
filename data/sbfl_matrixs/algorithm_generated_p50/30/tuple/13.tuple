@@ -1,0 +1,3 @@
+{"agent": "AudioProcessing_Expert", "action": "install", "state": "install Google Cloud Speech library"}
+{"agent": "Culinary_Expert", "action": "request", "state": "provide the transcription text to continue"}
+{"agent": "TranscriptionVerification_Expert", "action": "prepare", "state": "transcribe the audio file using Google Cloud Speech-to-Text API"}

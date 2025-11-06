@@ -1,0 +1,3 @@
+{"agent": "MartialArts_Expert", "action": "provide information", "state": "list of martial arts schools and their class schedules based on knowledge"}
+{"agent": "MartialArts_Expert", "action": "write script", "state": "simulate a search for martial arts schools based on parameters"}
+{"agent": "Verification_Expert", "action": "recommend", "state": "verify class schedules and distances for martial arts schools"}

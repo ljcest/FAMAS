@@ -1,0 +1,3 @@
+{"agent": "AlligatorBiology_Expert", "action": "provide context", "state": "General information about American Alligator distribution and expansion"}
+{"agent": "DataVerification_Expert", "action": "verify", "state": "Cross-check the year 1975 with reliable sources using Bing Search API"}
+{"agent": "SpeciesSightingsData_Expert", "action": "search", "state": "Historical records of American Alligator sightings west of Texas"}

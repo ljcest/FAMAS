@@ -1,0 +1,2 @@
+{"agent": "Boggle_Board_Expert", "action": "write script", "state": "implement the steps to solve the Boggle board puzzle"}
+{"agent": "Verification_Expert", "action": "verify", "state": "check if FOIRL is a valid word in the dictionary"}

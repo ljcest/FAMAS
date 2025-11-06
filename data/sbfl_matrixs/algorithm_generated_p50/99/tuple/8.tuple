@@ -1,0 +1,2 @@
+{"agent": "AnalyticalReasoning_Expert", "action": "update script", "state": "add print statements to display the results"}
+{"agent": "Ticket_Pricing_Expert", "action": "input", "state": "relevant pricing information for daily tickets and annual passes"}

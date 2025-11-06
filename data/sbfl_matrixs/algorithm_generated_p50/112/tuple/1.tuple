@@ -1,0 +1,2 @@
+{"agent": "Statistics_Expert", "action": "suggest", "state": "use OpenWeatherMap for historical weather data"}
+{"agent": "Validation_Expert", "action": "validate", "state": "check CSV file availability and validate data retrieval"}

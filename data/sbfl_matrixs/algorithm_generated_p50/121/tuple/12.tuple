@@ -1,0 +1,2 @@
+{"agent": "Debugging_Expert", "action": "analyze", "state": "error message and identify potential causes"}
+{"agent": "Verification_Expert", "action": "analyze", "state": "detailed analysis of the error and propose solution"}

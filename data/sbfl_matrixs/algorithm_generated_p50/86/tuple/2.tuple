@@ -1,0 +1,4 @@
+{"agent": "Library_Database_Expert", "action": "plan", "state": "Find an article under DDC 633 on Bielefeld University Library's BASE as of 2020, in an unknown language, with a unique flag"}
+{"agent": "Library_Database_Expert", "action": "suggest", "state": "manually search for articles on the BASE website"}
+{"agent": "Library_Database_Expert", "action": "wait", "state": "repeating the request for manual search details"}
+{"agent": "NaturalLanguageProcessing_Expert", "action": "inform", "state": "unable to perform manual searches, provide guidance for gathering data"}

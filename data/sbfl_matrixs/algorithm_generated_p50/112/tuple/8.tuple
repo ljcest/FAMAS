@@ -1,0 +1,2 @@
+{"agent": "Statistics_Expert", "action": "simulate", "state": "hypothetical snowfall data for New Year's Eve from 2014 to 2023"}
+{"agent": "Validation_Expert", "action": "validate", "state": "the earlier calculated probability of snowfall on New Year's Eve in Chicago"}

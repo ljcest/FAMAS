@@ -1,0 +1,2 @@
+{"agent": "DataExtraction_Expert", "action": "write script", "state": "extract the text from the DOCX file"}
+{"agent": "Validation_Expert", "action": "debug", "state": "add debugging output to the script to diagnose the issue"}

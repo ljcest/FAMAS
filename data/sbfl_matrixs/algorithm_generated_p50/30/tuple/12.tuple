@@ -1,0 +1,3 @@
+{"agent": "AudioProcessing_Expert", "action": "plan", "state": "Convert the audio file from MP3 to WAV format and then transcribe it"}
+{"agent": "Culinary_Expert", "action": "request", "state": "share the transcription text or provide access to it"}
+{"agent": "TranscriptionVerification_Expert", "action": "transcribe", "state": "audio file and provide the transcription"}

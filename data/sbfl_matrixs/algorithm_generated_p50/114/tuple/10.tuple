@@ -1,0 +1,4 @@
+{"agent": "DataAnalysis_Expert", "action": "offer assistance", "state": "analyze the sample dataset to ensure it meets the specified criteria"}
+{"agent": "DataAnalysis_Expert", "action": "request", "state": "sample dataset containing details about houses sold in Prince Edward Island"}
+{"agent": "DataAnalysis_Expert", "action": "request", "state": "sample dataset to begin verification process"}
+{"agent": "Verification_Expert", "action": "request", "state": "sample dataset for review and confirmation of representativeness"}

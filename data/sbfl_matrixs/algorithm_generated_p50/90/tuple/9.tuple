@@ -1,0 +1,3 @@
+{"agent": "Art_Expert", "action": "confirm", "state": "search URLs generated for Federico Lauria's 2014 dissertation"}
+{"agent": "Federico_Lauria_Expert", "action": "generate search URLs", "state": "search for Federico Lauria's 2014 dissertation"}
+{"agent": "Federico_Lauria_Expert", "action": "locate", "state": "footnote 397 in Federico Lauria's 2014 dissertation"}

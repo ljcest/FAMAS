@@ -1,0 +1,3 @@
+{"agent": "Research_Expert", "action": "compile", "state": "list of management team members and their joining years"}
+{"agent": "Research_Expert", "action": "research", "state": "confirm the year of Fubo's IPO and gather joining years of management team members"}
+{"agent": "Validation_Expert", "action": "plan", "state": "Switch to a manual approach to verify the joining years of the management team members"}

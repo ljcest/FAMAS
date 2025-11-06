@@ -1,0 +1,2 @@
+{"agent": "Verification_Expert", "action": "generate", "state": "synthetic dataset for verification"}
+{"agent": "Verification_Expert", "action": "outline steps", "state": "Review the sample dataset and verify the function"}

@@ -1,0 +1,2 @@
+{"agent": "AcademicPublication_Expert", "action": "search", "state": "find the authors of the paper Pie Menus or Linear Menus, Which Is Better?"}
+{"agent": "AcademicPublication_Expert", "action": "search", "state": "use a shell command to search for the paper in Google Scholar"}

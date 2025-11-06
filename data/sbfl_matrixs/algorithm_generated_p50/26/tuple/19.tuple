@@ -1,0 +1,3 @@
+{"agent": "DataVerification_Expert", "action": "propose", "state": "conduct an online search using the Bing Search API to find information from Girls Who Code"}
+{"agent": "Statistics_Expert", "action": "clarify", "state": "inconsistencies in the task description regarding the final percentage"}
+{"agent": "WomenInComputerScienceHistory_Expert", "action": "propose", "state": "rely on historical context and available data to proceed"}

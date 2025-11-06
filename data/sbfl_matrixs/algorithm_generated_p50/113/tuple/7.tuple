@@ -1,0 +1,2 @@
+{"agent": "Reviews_Expert", "action": "write script", "state": "filter and analyze trails based on criteria"}
+{"agent": "Verification_Expert", "action": "revise script", "state": "update the criteria for counting accessibility comments"}

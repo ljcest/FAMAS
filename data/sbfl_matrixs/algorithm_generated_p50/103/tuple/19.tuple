@@ -1,0 +1,2 @@
+{"agent": "DataVerification_Expert", "action": "search", "state": "Identify the location of Harkness Memorial State Park using Bing Search API"}
+{"agent": "Location-Based_Services_Expert", "action": "update search", "state": "Handle cases where the response does not contain the expected keys"}

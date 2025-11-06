@@ -1,0 +1,2 @@
+{"agent": "Bioinformatics_Expert", "action": "summarize", "state": "History and updates of the dog genome project and locate relevant files for May 2020"}
+{"agent": "Verification_Expert", "action": "refine search", "state": "Query NCBI assembly API for CanFam4.0 data files"}

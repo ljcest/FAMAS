@@ -1,0 +1,2 @@
+{"agent": "DataAnalysis_Expert", "action": "write script", "state": "analyze real estate transactions data"}
+{"agent": "DataManipulation_Expert", "action": "request", "state": "provide the CSV file or confirm mock dataset"}

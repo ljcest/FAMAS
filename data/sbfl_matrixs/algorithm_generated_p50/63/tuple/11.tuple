@@ -1,0 +1,2 @@
+{"agent": "MusicTheory_Expert", "action": "execute", "state": "run OCR code to extract the text from the image"}
+{"agent": "Verification_Expert", "action": "provide", "state": "alternative OCR approach using Pytesseract"}

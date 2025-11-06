@@ -1,0 +1,2 @@
+{"agent": "DemographicData_Expert", "action": "inform", "state": "calculated difference is 70.0 thousand, need actual census data for verification"}
+{"agent": "DemographicData_Expert", "action": "write script", "state": "calculate the difference in thousands of women with tertiary education"}

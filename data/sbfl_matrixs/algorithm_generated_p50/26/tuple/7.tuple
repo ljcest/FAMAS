@@ -1,0 +1,3 @@
+{"agent": "DataVerification_Expert", "action": "formulate", "state": "a new search query to gather relevant information from Girls Who Code"}
+{"agent": "DataVerification_Expert", "action": "suggest", "state": "search for publicly available reports or articles on the growth of women in computer science"}
+{"agent": "WomenInComputerScienceHistory_Expert", "action": "provide", "state": "historical context regarding the percentage of women in computer science"}

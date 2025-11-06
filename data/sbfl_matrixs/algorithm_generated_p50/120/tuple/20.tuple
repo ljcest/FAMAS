@@ -1,0 +1,2 @@
+{"agent": "Verification_Expert", "action": "install", "state": "geopy module"}
+{"agent": "Verification_Expert", "action": "plan", "state": "Verify identified restaurants and their vegan main dishes for under $15"}

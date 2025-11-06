@@ -1,0 +1,2 @@
+{"agent": "ChessRules_Expert", "action": "request", "state": "provide manual description of the chess position"}
+{"agent": "Chess_Expert", "action": "request", "state": "description of the chess position"}

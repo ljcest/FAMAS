@@ -1,0 +1,3 @@
+{"agent": "AcademicPublication_Expert", "action": "agree", "state": "manually search for the authors on Google Scholar"}
+{"agent": "AcademicPublication_Expert", "action": "write script", "state": "search for the paper and its authors on Google Scholar"}
+{"agent": "PublicationAnalysis_Expert", "action": "revise plan", "state": "manually verify the authorship and publication history using Google Scholar"}

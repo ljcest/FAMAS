@@ -1,0 +1,3 @@
+{"agent": "MartialArts_Expert", "action": "identify", "state": "exact location of the New York Stock Exchange"}
+{"agent": "NYC_Local_Expert", "action": "provide script", "state": "to simulate the search for martial arts schools near the New York Stock Exchange"}
+{"agent": "NYC_Local_Expert", "action": "search", "state": "martial arts schools within a five-minute walking distance from the New York Stock Exchange"}

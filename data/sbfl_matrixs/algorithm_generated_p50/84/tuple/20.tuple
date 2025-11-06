@@ -1,0 +1,2 @@
+{"agent": "ChessRules_Expert", "action": "proceed", "state": "manually analyze the chess position from the image"}
+{"agent": "Chess_Expert", "action": "write script", "state": "analyze the chessboard image again"}

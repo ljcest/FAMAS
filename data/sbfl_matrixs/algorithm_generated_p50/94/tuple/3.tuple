@@ -1,0 +1,4 @@
+{"agent": "AnimalBehavior_Expert", "action": "suggest", "state": "focus on gathering relevant characteristics of the birds"}
+{"agent": "BirdSpeciesIdentification_Expert", "action": "propose", "state": "search for a synopsis or detailed description of the video"}
+{"agent": "BirdSpeciesIdentification_Expert", "action": "request", "state": "information about the bird featured in the video"}
+{"agent": "Ornithology_Expert", "action": "offer", "state": "help verify the species once characteristics are gathered"}

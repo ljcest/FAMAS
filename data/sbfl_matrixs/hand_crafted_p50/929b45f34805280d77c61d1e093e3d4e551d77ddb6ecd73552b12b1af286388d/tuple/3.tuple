@@ -1,0 +1,5 @@
+{"agent": "MagenticOneOrchestrator", "action": "click", "state": "Broad Institute Canine Genomic Resources"}
+{"agent": "MagenticOneOrchestrator", "action": "plan", "state": "address the user request for the most relevant dog genome files as of May 2020"}
+{"agent": "MagenticOneOrchestrator", "action": "search", "state": "Most recent dog genome assembly as of May 2020"}
+{"agent": "WebSurfer", "action": "click", "state": "Broad Institute"}
+{"agent": "WebSurfer", "action": "type", "state": "NCBI dog genome assembly May 2020"}

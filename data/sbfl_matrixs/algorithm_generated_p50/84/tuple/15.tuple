@@ -1,0 +1,3 @@
+{"agent": "ChessRules_Expert", "action": "identify", "state": "ChessRules_Expert"}
+{"agent": "Chess_Expert", "action": "inform", "state": "awaiting specific details of the chess position"}
+{"agent": "Chess_Expert", "action": "request", "state": "provide the FEN string or description of the chess position"}

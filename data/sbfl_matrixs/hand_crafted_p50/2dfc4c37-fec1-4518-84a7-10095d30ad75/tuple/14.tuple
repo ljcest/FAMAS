@@ -1,0 +1,5 @@
+{"agent": "MagenticOneOrchestrator", "action": "click", "state": "2020 year link"}
+{"agent": "MagenticOneOrchestrator", "action": "plan", "state": "visit Box Office Mojo's website to find the 2020 Worldwide Box Office list and extract the top 10 highest-grossing worldwide movies"}
+{"agent": "MagenticOneOrchestrator", "action": "please visit", "state": "the Box Office Mojo page for the 2020 Domestic Box Office"}
+{"agent": "WebSurfer", "action": "typed", "state": "2020 Domestic Box Office Box Office Mojo' "}
+{"agent": "WebSurfer", "action": "typed", "state": "https://www.boxofficemojo.com/year/world/2020/' "}

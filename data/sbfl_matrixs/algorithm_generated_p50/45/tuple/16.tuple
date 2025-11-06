@@ -1,0 +1,2 @@
+{"agent": "PublicationData_Expert", "action": "write script", "state": "calculate the number of incorrect papers using the false positive rate"}
+{"agent": "VerificationExpert", "action": "verify", "state": "confirm the result based on the assumption of 1000 articles"}

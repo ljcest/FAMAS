@@ -5,7 +5,14 @@ import pandas as pd
 from agent_step import AgentStep
 
 
-def convert_path_to_tuple(input_dir: str, output_dir: str, is_hierarchical=False):
+def convert_path_to_tuple(input_dir: str, output_dir: str, is_hierarchical=False, usage_percentage=1.0):
+    """
+    转换路径到元组格式
+    :param input_dir: 输入目录
+    :param output_dir: 输出目录
+    :param is_hierarchical: 是否使用层级结构
+    :param usage_percentage: 使用日志的百分比 (0.0-1.0)，例如0.5表示只使用前50%的日志
+    """
     input_path = Path(input_dir)
     path_dir = input_path / "llm_cluster3"
     output_path = Path(output_dir)
@@ -15,7 +22,7 @@ def convert_path_to_tuple(input_dir: str, output_dir: str, is_hierarchical=False
     all_agentsteps = set()
     file_agentsteps = []
     file_agentsteps_all = []
-    # file_bigrams = []  # 新增：存储每个文件的二元组序列
+    # file_bigrams = []  # 新增:存储每个文件的二元组序列
 
     indexed_path_files = []
     for path_file in path_dir.glob("*.jsonl"):
@@ -34,7 +41,15 @@ def convert_path_to_tuple(input_dir: str, output_dir: str, is_hierarchical=False
             if input_path.parent.name != "algorithmgenerated_plan":
                 next(f, None)
             if f is not None:
-                for line in f:
+                # 首先读取所有行以计算要使用的行数
+                all_lines = f.readlines()
+                total_lines = len(all_lines)
+                lines_to_use = int(total_lines * usage_percentage)
+                
+                # 只处理前 lines_to_use 行
+                for i, line in enumerate(all_lines):
+                    if i >= lines_to_use:
+                        break
                     step = AgentStep.from_jsonl_line(line, is_hierarchical)
                     if step and step.agent == "Computer_terminal":
                         continue
@@ -109,27 +124,48 @@ def get_all_matrix_files(input_dir: str):
     return os.path.join(input_dir, "step_matrix.csv"), os.path.join(input_dir, "test")
 
 
-def generate_all_matrix(analysis_dir: str, output_dir: str):
-
+def generate_all_matrix(analysis_dir: str, output_dir: str, usage_percentage=1.0):
+    """
+    生成所有矩阵
+    :param analysis_dir: 分析目录
+    :param output_dir: 输出目录
+    :param usage_percentage: 使用日志的百分比 (0.0-1.0)
+    """
+    # 如果使用部分日志，在输出路径中添加百分比标识
+    if usage_percentage < 1.0:
+        output_dir = f"{output_dir}_p{int(usage_percentage*100)}"
+    
     for dirname in os.listdir(analysis_dir):
         input_example = os.path.join(analysis_dir, dirname)
         if not os.path.isdir(input_example): continue
         output_example = os.path.join(output_dir, dirname)
         os.makedirs(output_example, exist_ok=True)
-        file_agentsteps, all_agentsteps_sorted, file_agentsteps_all = convert_path_to_tuple(input_example, output_example)
+        file_agentsteps, all_agentsteps_sorted, file_agentsteps_all = convert_path_to_tuple(input_example, output_example, usage_percentage=usage_percentage)
         generate_step_matrix(file_agentsteps, all_agentsteps_sorted, input_example, output_example, file_agentsteps_all)
 
 
 if __name__ == '__main__':
-    generate_all_matrix("data/trajectories/gaia_level1", "data/sbfl_matrixs/hand_crafted")
-    generate_all_matrix("data/trajectories/gaia_level2", "data/sbfl_matrixs/hand_crafted")
-    generate_all_matrix("data/trajectories/gaia_level3", "data/sbfl_matrixs/hand_crafted")
-    generate_all_matrix("data/trajectories/assistantbench_medium", "data/sbfl_matrixs/hand_crafted")
-    generate_all_matrix("data/trajectories/assistantbench_hard", "data/sbfl_matrixs/hand_crafted")
+    import argparse
+    
+    parser = argparse.ArgumentParser(description="Generate SBFL matrices from trajectories.")
+    parser.add_argument("--usage_percentage", type=float, default=1.0, 
+                       help="The percentage of a log file used (0.0-1.0), e.g., 0.5 means using first 50%% of logs")
+    args = parser.parse_args()
+    
+    # 验证 usage_percentage 的范围
+    if not 0.0 < args.usage_percentage <= 1.0:
+        parser.error("usage_percentage must be in range (0.0, 1.0]")
+    
+    print(f"Generating matrices with {args.usage_percentage*100:.1f}% of logs...")
+    
+    generate_all_matrix("data/trajectories/gaia_level1", "data/sbfl_matrixs/hand_crafted", args.usage_percentage)
+    generate_all_matrix("data/trajectories/gaia_level2", "data/sbfl_matrixs/hand_crafted", args.usage_percentage)
+    generate_all_matrix("data/trajectories/gaia_level3", "data/sbfl_matrixs/hand_crafted", args.usage_percentage)
+    generate_all_matrix("data/trajectories/assistantbench_medium", "data/sbfl_matrixs/hand_crafted", args.usage_percentage)
+    generate_all_matrix("data/trajectories/assistantbench_hard", "data/sbfl_matrixs/hand_crafted", args.usage_percentage)
 
-
-    generate_all_matrix("data/trajectories/algorithmgenerated_plan", "data/sbfl_matrixs/algorithm_generated")
-    generate_all_matrix("data/trajectories/algorithmgenerated_normal", "data/sbfl_matrixs/algorithm_generated")
+    generate_all_matrix("data/trajectories/algorithmgenerated_plan", "data/sbfl_matrixs/algorithm_generated", args.usage_percentage)
+    generate_all_matrix("data/trajectories/algorithmgenerated_normal", "data/sbfl_matrixs/algorithm_generated", args.usage_percentage)
 
 
 

@@ -1,0 +1,2 @@
+{"agent": "Python_Expert", "action": "reinstall", "state": "opencv-python to ensure correct installation in the environment"}
+{"agent": "Python_Expert", "action": "write script", "state": "use OpenCV to extract and calculate the required deviations"}

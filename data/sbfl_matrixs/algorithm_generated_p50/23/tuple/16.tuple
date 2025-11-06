@@ -1,0 +1,4 @@
+{"agent": "Art_Historian_Expert", "action": "look up", "state": "the portrait with accession number 29.100.5"}
+{"agent": "Church_Historian_Expert", "action": "assist", "state": "research the consecrators and co-consecrators of the subject when they were made a bishop"}
+{"agent": "DataVerification_Expert", "action": "execute", "state": "search code to obtain the necessary information about the portrait"}
+{"agent": "DataVerification_Expert", "action": "search", "state": "the portrait in the Metropolitan Museum of Art's collection with the accession number 29.100.5"}

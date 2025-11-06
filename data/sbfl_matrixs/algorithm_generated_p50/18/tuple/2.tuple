@@ -1,0 +1,2 @@
+{"agent": "Literature_Expert", "action": "agree", "state": "Stanza 2 contains indented lines in the poem"}
+{"agent": "Poetry_Expert", "action": "analyze", "state": "Identify the stanza with indented lines in the poem"}

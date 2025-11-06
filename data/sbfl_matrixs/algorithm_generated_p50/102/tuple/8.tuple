@@ -1,0 +1,3 @@
+{"agent": "Filmography_Expert", "action": "write script", "state": "get Isabelle Adjani's filmography using API"}
+{"agent": "IMDB_Ratings_Expert", "action": "compile list", "state": "manually compile list of Isabelle Adjani's films with runtimes"}
+{"agent": "StreamingAvailability_Expert", "action": "check availability", "state": "verify availability of films on Vudu"}

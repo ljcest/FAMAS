@@ -1,0 +1,2 @@
+{"agent": "Accessibility_Expert", "action": "gather addresses", "state": "addresses and accessibility of the listed bars"}
+{"agent": "BingAPI_Expert", "action": "update script", "state": "include print statements for distances"}

@@ -1,0 +1,2 @@
+{"agent": "ImageProcessing_Expert", "action": "install", "state": "install pytesseract and Pillow libraries"}
+{"agent": "Verification_Expert", "action": "revise", "state": "ensure only simplified fractions are included in the final output"}

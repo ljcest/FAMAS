@@ -1,0 +1,2 @@
+{"agent": "Boggle_Board_Expert", "action": "write script", "state": "implement the steps to solve the Boggle board puzzle"}
+{"agent": "Dictionary_Expert", "action": "refine script", "state": "add debugging to track word formation and ensure the search is comprehensive"}

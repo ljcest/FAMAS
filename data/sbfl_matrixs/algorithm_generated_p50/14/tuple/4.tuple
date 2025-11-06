@@ -1,0 +1,3 @@
+{"agent": "Culinary_Awards_Expert", "action": "finalize", "state": "The complete title of the book is: The New Mexican Table"}
+{"agent": "Culinary_Awards_Expert", "action": "research", "state": "Find the book titled The New Mexican Table by Ben Sparks that includes recommendations for the Frontier Restaurant"}
+{"agent": "Culinary_Awards_Expert", "action": "summarize", "state": "Summarize the information gathered so far about the TV show, New Mexican staple, and restaurant"}

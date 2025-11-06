@@ -1,0 +1,3 @@
+{"agent": "WebDevelopment_Expert", "action": "inform", "state": "accessed Eva Draconis's personal website and identified the top banner"}
+{"agent": "WebDevelopment_Expert", "action": "request", "state": "Web_Design_Expert to notify once the website is accessed"}
+{"agent": "Web_Design_Expert", "action": "access", "state": "Eva Draconis's personal website through her YouTube page"}

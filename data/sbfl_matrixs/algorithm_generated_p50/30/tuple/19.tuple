@@ -1,0 +1,3 @@
+{"agent": "AudioProcessing_Expert", "action": "suggest", "state": "Convert the MP3 file to WAV format"}
+{"agent": "Culinary_Expert", "action": "request", "state": "share the transcription of the audio file"}
+{"agent": "TranscriptionVerification_Expert", "action": "write script", "state": "Transcribe the audio file using Google Cloud Speech-to-Text API"}

@@ -1,0 +1,3 @@
+{"agent": "MartialArts_Expert", "action": "identify", "state": "the location of the New York Stock Exchange and search for martial arts schools within a five-minute walking distance"}
+{"agent": "Verification_Expert", "action": "install", "state": "install geopy package to calculate distances"}
+{"agent": "Verification_Expert", "action": "verify", "state": "findings and the compiled list of martial arts schools"}

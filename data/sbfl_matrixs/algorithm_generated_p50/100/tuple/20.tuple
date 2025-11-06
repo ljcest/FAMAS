@@ -1,0 +1,3 @@
+{"agent": "Movie_Expert", "action": "provide", "state": "details about Daniel Craig movies and their IMDb ratings"}
+{"agent": "StreamingService_Expert", "action": "request", "state": "list of Daniel Craig movies that are less than 150 minutes"}
+{"agent": "StreamingService_Expert", "action": "verify", "state": "availability of Daniel Craig movies on Netflix (US)"}

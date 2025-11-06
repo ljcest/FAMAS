@@ -1,0 +1,3 @@
+{"agent": "ScientificPaperAnalysis_Expert", "action": "analyze", "state": "Identify the section where the volume of the fish bag is calculated"}
+{"agent": "ScientificPaperAnalysis_Expert", "action": "request", "state": "Provide dimensions or properties of the fish bag from the paper"}
+{"agent": "ScientificPaperAnalysis_Expert", "action": "request", "state": "Provide relevant information or excerpts from the paper"}

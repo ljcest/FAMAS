@@ -1,0 +1,2 @@
+{"agent": "MarineBiology_Expert", "action": "execute", "state": "fetch the required information from the Wikipedia page for Greenland"}
+{"agent": "Verification_Expert", "action": "guide", "state": "Use Python for web scraping to fetch the population data"}

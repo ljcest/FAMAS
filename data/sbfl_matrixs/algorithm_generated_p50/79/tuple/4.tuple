@@ -1,0 +1,2 @@
+{"agent": "WaybackMachine_Expert", "action": "execute", "state": "check for snapshots on March 22, 2021, and April 21, 2021"}
+{"agent": "WaybackMachine_Expert", "action": "modify", "state": "extract URLs for snapshots and access menus"}

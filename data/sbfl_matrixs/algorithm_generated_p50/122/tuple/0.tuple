@@ -1,0 +1,3 @@
+{"agent": "Accessibility_Expert", "action": "confirm", "state": "address of Mummers Museum and list of bars to verify for accessibility"}
+{"agent": "BingAPI_Expert", "action": "query", "state": "Bing Search API for wheelchair accessibility of listed bars"}
+{"agent": "Verification_Expert", "action": "plan", "state": "gather accessibility information from alternate sources and calculate distances"}

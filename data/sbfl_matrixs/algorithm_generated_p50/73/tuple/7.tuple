@@ -1,0 +1,2 @@
+{"agent": "DoctorWhoScript_Expert", "action": "write script", "state": "extract the first scene heading from the official script"}
+{"agent": "Validation_Expert", "action": "update script", "state": "add print statement to display the first scene heading"}

@@ -1,0 +1,2 @@
+{"agent": "CorporateHistory_IPOs_MondayCom_Expert", "action": "search", "state": "gather the current C-suite members of monday.com"}
+{"agent": "CorporateHistory_IPOs_MondayCom_Expert", "action": "search", "state": "manually check links to find current C-suite members and determine IPO date"}

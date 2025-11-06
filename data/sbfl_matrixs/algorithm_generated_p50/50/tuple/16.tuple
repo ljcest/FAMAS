@@ -1,0 +1,2 @@
+{"agent": "DataAnalysis_Expert", "action": "write script", "state": "analyze the vendors and find the one with the least revenue-to-rent ratio"}
+{"agent": "Financial_Expert", "action": "modify script", "state": "display the column names to verify their names"}

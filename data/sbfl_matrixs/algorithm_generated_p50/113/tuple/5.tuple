@@ -1,0 +1,2 @@
+{"agent": "Hiking_Expert", "action": "update", "state": "sample data to include accessible trails and adjust code"}
+{"agent": "Reviews_Expert", "action": "prepare", "state": "List of trails known for accessibility and popularity"}

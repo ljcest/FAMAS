@@ -1,0 +1,2 @@
+{"agent": "RealEstate_Expert", "action": "summarize", "state": "Summarize findings from multiple real estate sources"}
+{"agent": "RealEstate_Expert", "action": "verify", "state": "highest sale price of a high-rise apartment in Mission Bay, San Francisco, in 2021"}

@@ -1,0 +1,2 @@
+{"agent": "Baseball_Expert", "action": "clarify", "state": "explain the need to run Python script correctly"}
+{"agent": "Validation_Expert", "action": "write script", "state": "extract pitcher names from provided URLs"}

@@ -1,0 +1,2 @@
+{"agent": "Excel_Expert", "action": "load file", "state": "load Excel file and examine contents"}
+{"agent": "Excel_Expert", "action": "modify code", "state": "display the entire contents of the Excel file"}

@@ -1,0 +1,2 @@
+{"agent": "OpenCV_Expert", "action": "revise", "state": "fetch the full list of contributors from the main OpenCV repository"}
+{"agent": "OpenCV_Expert", "action": "start", "state": "identifying the contributors to OpenCV version 4.1.2"}

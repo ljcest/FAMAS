@@ -1,0 +1,4 @@
+{"agent": "MartialArts_Expert", "action": "identify", "state": "location of the New York Stock Exchange and nearby martial arts schools"}
+{"agent": "NYC_Local_Expert", "action": "assist", "state": "search for martial arts schools within a five-minute walking distance from the New York Stock Exchange"}
+{"agent": "NYC_Local_Expert", "action": "compile", "state": "manually compile a list of martial arts schools near NYSE"}
+{"agent": "Verification_Expert", "action": "verify", "state": "addresses and class schedules of martial arts schools"}

@@ -1,0 +1,2 @@
+{"agent": "AlgorithmDesign_Expert", "action": "suggest", "state": "search for the positions of the START and END cells in the loaded data"}
+{"agent": "Excel_Expert", "action": "load data", "state": "Load the Excel file and identify the START and END cells"}

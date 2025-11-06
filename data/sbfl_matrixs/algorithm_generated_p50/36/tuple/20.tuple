@@ -1,0 +1,2 @@
+{"agent": "ProblemSolving_Expert", "action": "simplify", "state": "fractions and prepare the final output"}
+{"agent": "Verification_Expert", "action": "revise", "state": "correct the code block for execution"}

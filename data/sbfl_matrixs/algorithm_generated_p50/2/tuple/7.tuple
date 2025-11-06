@@ -1,0 +1,2 @@
+{"agent": "DataAnalysis_Expert", "action": "request", "state": "CSV file or confirmation to proceed with a mock dataset"}
+{"agent": "DataAnalysis_Expert", "action": "write script", "state": "create mock dataset and find the country with the least number of athletes"}

@@ -1,0 +1,3 @@
+{"agent": "ArtHistory_Expert", "action": "research", "state": "Research the 2015 Metropolitan Museum of Art exhibition and identify animals with hands visible"}
+{"agent": "Chinese_Zodiac_Expert", "action": "prompt", "state": "Verification_Expert for final confirmation"}
+{"agent": "Chinese_Zodiac_Expert", "action": "search", "state": "Search for exhibition catalog or related resources to confirm visibility of hands"}

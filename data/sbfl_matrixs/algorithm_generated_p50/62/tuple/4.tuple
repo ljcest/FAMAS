@@ -1,0 +1,2 @@
+{"agent": "Literature_Expert", "action": "request", "state": "manually check the retrieved text against the quoted text"}
+{"agent": "Research_Expert", "action": "retrieve article", "state": "using the provided DOI from Project MUSE"}

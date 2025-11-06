@@ -1,0 +1,2 @@
+{"agent": "ScientificPaperAnalysis_Expert", "action": "analyze", "state": "review the paper to extract necessary data for the volume calculation"}
+{"agent": "ScientificPaperAnalysis_Expert", "action": "extract data", "state": "dimensions and shape of the fish bag from the paper"}

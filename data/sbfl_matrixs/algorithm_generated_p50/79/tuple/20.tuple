@@ -1,0 +1,2 @@
+{"agent": "MenuAnalysis_Expert", "action": "locate", "state": "display the URLs for the menus on both dates"}
+{"agent": "WaybackMachine_Expert", "action": "retrieve", "state": "dinner menu for Virtue restaurant & bar on March 22, 2021, and April 21, 2021"}

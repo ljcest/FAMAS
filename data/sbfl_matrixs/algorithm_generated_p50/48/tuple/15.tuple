@@ -1,0 +1,3 @@
+{"agent": "Geometry_Expert", "action": "outline", "state": "Steps to calculate the area of the polygon"}
+{"agent": "MathAnalysis_Expert", "action": "request", "state": "number of sides and lengths of each side of the polygon"}
+{"agent": "MathAnalysis_Expert", "action": "request", "state": "number of sides and side lengths from the image"}

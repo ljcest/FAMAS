@@ -1,0 +1,2 @@
+{"agent": "Statistics_Expert", "action": "write script", "state": "fetch historical weather data for Houston, Texas for June 2020 to 2023"}
+{"agent": "WeatherData_Expert", "action": "prepare", "state": "gather historical weather data for Houston, Texas for June from 2020 to 2023"}

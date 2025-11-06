@@ -1,0 +1,2 @@
+{"agent": "MusicTheory_Expert", "action": "execute", "state": "Run OCR process to extract note letters from the bass clef notation"}
+{"agent": "Verification_Expert", "action": "suggest", "state": "use pytesseract library for OCR"}

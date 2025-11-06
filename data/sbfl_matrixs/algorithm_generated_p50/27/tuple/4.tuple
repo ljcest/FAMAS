@@ -1,0 +1,3 @@
+{"agent": "DataVerification_Expert", "action": "assist", "state": "verify the world record time once found"}
+{"agent": "DataVerification_Expert", "action": "search", "state": "world record time for the track Sweet Sweet Canyon in Mario Kart 8 Deluxe's 150cc mode"}
+{"agent": "Verification_Expert", "action": "propose", "state": "manual search for world record time"}

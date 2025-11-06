@@ -1,0 +1,2 @@
+{"agent": "DOI_Expert", "action": "access", "state": "book using the provided DOI"}
+{"agent": "InformationExtraction_Expert", "action": "extract", "state": "second-to-last paragraph from page 11"}

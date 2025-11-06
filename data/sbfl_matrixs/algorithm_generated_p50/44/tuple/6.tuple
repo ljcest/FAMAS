@@ -1,0 +1,3 @@
+{"agent": "WebDevelopment_Expert", "action": "wait", "state": "for Web_Design_Expert to gather information about Eva Draconis's website"}
+{"agent": "Web_Design_Expert", "action": "request", "state": "URL of Eva Draconis's personal website"}
+{"agent": "Web_Design_Expert", "action": "start", "state": "access Eva Draconis's personal website via her YouTube page"}

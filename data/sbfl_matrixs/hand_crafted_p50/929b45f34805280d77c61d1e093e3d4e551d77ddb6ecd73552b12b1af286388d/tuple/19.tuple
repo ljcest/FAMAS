@@ -1,0 +1,13 @@
+{"agent": "MagenticOneOrchestrator", "action": "instruct", "state": "Updated fact sheet and new plan to navigate to Ensembl and search for 'Canis lupus familiaris' to identify the most recent genome assembly version as of May 2020 and extract the direct download link for the relevant genome files."}
+{"agent": "MagenticOneOrchestrator", "action": "plan", "state": "Work to address the user request by assembling a team and creating a plan to find the most relevant dog genome assembly version and its download link as of May 2020."}
+{"agent": "WebSurfer", "action": "click", "state": "All species"}
+{"agent": "WebSurfer", "action": "click", "state": "Broad Institute"}
+{"agent": "WebSurfer", "action": "click", "state": "National Center for Biotechnology Information"}
+{"agent": "WebSurfer", "action": "click", "state": "familial chilblain lupus (Human Phenotype)"}
+{"agent": "WebSurfer", "action": "scroll", "state": "one page in the browser"}
+{"agent": "WebSurfer", "action": "scroll", "state": "up one page in the browser"}
+{"agent": "WebSurfer", "action": "type", "state": "Canis lupus familiaris CanFam3.1"}
+{"agent": "WebSurfer", "action": "type", "state": "NCBI dog genome assembly May 2020"}
+{"agent": "WebSurfer", "action": "type", "state": "dog genome assembly May 2020 CanFam genome version May 2020"}
+{"agent": "WebSurfer", "action": "type", "state": "https://www.ensembl.org"}
+{"agent": "WebSurfer", "action": "type", "state": "most relevant version of dog genome in May 2020 alternative sources"}

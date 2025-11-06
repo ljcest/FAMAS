@@ -1,0 +1,2 @@
+{"agent": "ChessRules_Expert", "action": "install package", "state": "python-chess library"}
+{"agent": "Chess_Expert", "action": "write script", "state": "correctly evaluate the position and suggest the best move for black"}

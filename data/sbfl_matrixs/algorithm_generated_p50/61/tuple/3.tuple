@@ -1,0 +1,2 @@
+{"agent": "C++_Expert", "action": "inform", "state": "Python script executed successfully, extracted URL containing C++ source code"}
+{"agent": "PythonProgramming_Expert", "action": "write script", "state": "extract the URL containing C++ source code from the given array of strings"}

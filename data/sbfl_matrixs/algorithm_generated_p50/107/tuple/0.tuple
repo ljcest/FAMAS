@@ -1,0 +1,2 @@
+{"agent": "Bioinformatics_Expert", "action": "write script", "state": "automate the retrieval of URLs for dog genome data files"}
+{"agent": "Verification_Expert", "action": "verify", "state": "Check the provided NCBI link and confirm the relevance of CanFam3.1 in May 2020"}

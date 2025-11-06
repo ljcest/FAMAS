@@ -1,0 +1,2 @@
+{"agent": "DataAnalysis_Expert", "action": "request", "state": "suggestions or specific source for Seattle weather data"}
+{"agent": "Verification_Expert", "action": "validate", "state": "previous analysis by examining real weather data"}

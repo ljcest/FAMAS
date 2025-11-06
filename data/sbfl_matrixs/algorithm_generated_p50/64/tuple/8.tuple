@@ -1,0 +1,2 @@
+{"agent": "MilitaryHistory_Expert", "action": "research", "state": "notable military figures and units in 1813"}
+{"agent": "Verification_Expert", "action": "suggest", "state": "implement web search using requests library"}

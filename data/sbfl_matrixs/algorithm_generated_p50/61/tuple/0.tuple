@@ -1,0 +1,3 @@
+{"agent": "C++_Expert", "action": "inform", "state": "output from the executed Python script is the URL http://example.com/sourcecode/C++/sort/wiki"}
+{"agent": "C++_Expert", "action": "plan", "state": "fetch and compile C++ source code from the URL"}
+{"agent": "PythonProgramming_Expert", "action": "write script", "state": "extract the URL from the array of strings"}

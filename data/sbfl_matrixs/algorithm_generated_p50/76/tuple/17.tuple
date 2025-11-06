@@ -1,0 +1,2 @@
+{"agent": "Baseball_Expert", "action": "revise", "state": "modify the code to handle the scraping differently"}
+{"agent": "Validation_Expert", "action": "plan", "state": "Retrieve names of pitchers with jersey numbers 18 and 20"}

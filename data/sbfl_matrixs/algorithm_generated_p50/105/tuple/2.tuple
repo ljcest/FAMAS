@@ -1,0 +1,2 @@
+{"agent": "Local_Knowledge_Expert", "action": "list", "state": "gyms within 200 meters of Tompkins Square Park"}
+{"agent": "Local_Knowledge_Expert", "action": "write script", "state": "find gyms near Tompkins Square Park using API"}

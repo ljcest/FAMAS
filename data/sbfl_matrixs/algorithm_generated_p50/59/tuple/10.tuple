@@ -1,0 +1,2 @@
+{"agent": "DataExtraction_Expert", "action": "provide command", "state": "install Selenium again"}
+{"agent": "DataExtraction_Expert", "action": "restate script", "state": "run the extraction script to gather data from Openreview.net"}

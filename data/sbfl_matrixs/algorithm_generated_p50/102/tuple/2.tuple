@@ -1,0 +1,3 @@
+{"agent": "Filmography_Expert", "action": "compile list", "state": "feature films starring Isabelle Adjani with runtimes"}
+{"agent": "IMDB_Ratings_Expert", "action": "provide", "state": "list of notable Isabelle Adjani films with runtimes"}
+{"agent": "StreamingAvailability_Expert", "action": "inform", "state": "availability check for films on Vudu"}

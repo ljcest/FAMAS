@@ -1,0 +1,2 @@
+{"agent": "RecyclingRate_Expert", "action": "verify", "state": "recycling rate for water bottles from Wikipedia"}
+{"agent": "Validation_Expert", "action": "update script", "state": "add print statements for better clarity"}

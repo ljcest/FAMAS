@@ -1,0 +1,2 @@
+{"agent": "DataAnalysis_Expert", "action": "update code", "state": "modify the approach to extract album information from Wikipedia"}
+{"agent": "InformationVerification_Expert", "action": "search", "state": "Mercedes Sosa discography site:wikipedia.org"}

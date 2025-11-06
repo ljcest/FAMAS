@@ -1,0 +1,2 @@
+{"agent": "Python_Expert", "action": "suggest", "state": "Manually extract red and green numbers from the image"}
+{"agent": "Statistics_Expert", "action": "request", "state": "Provide the red and green numbers from the image"}

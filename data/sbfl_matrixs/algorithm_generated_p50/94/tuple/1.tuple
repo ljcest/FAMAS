@@ -1,0 +1,3 @@
+{"agent": "BirdSpeciesIdentification_Expert", "action": "list", "state": "common bird species often featured in humorous contexts"}
+{"agent": "BirdSpeciesIdentification_Expert", "action": "watch video", "state": "search for the video on YouTube and take note of the key characteristics of the birds featured"}
+{"agent": "Ornithology_Expert", "action": "analyze", "state": "gather observations from the video focusing on the bird's characteristics"}

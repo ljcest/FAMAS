@@ -1,0 +1,3 @@
+{"agent": "ModelEvaluation_Interpretation_Expert", "action": "write script", "state": "to extract label words from the June 2022 paper"}
+{"agent": "Physics_Expert", "action": "coordinate", "state": "with the AI regulation expert to proceed with the task"}
+{"agent": "Verification_Expert", "action": "suggest", "state": "update the URL and refine extraction logic"}

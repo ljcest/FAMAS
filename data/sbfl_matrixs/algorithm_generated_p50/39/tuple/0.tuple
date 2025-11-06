@@ -1,0 +1,2 @@
+{"agent": "AquaticEcosystems_InvasiveSpecies_Expert", "action": "write script", "state": "query USGS database for Amphiprion ocellaris and extract zip codes"}
+{"agent": "Scientific_Verification_Expert", "action": "revise code", "state": "improve zip code extraction from USGS page"}

@@ -1,0 +1,2 @@
+{"agent": "ChessRules_Expert", "action": "install package", "state": "Install pytesseract package"}
+{"agent": "Chess_Expert", "action": "write script", "state": "extract and analyze the chess position from the image"}

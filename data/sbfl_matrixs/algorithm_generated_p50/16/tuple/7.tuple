@@ -1,0 +1,2 @@
+{"agent": "Verification_Expert", "action": "update script", "state": "add error handling and print full response for further examination"}
+{"agent": "Video_Analyst_Expert", "action": "write script", "state": "search for relevant videos using the YouTube Data API"}

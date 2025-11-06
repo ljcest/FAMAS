@@ -1,0 +1,2 @@
+{"agent": "DataAnalysis_Expert", "action": "revise script", "state": "fetch data from Wikipedia API directly"}
+{"agent": "InformationVerification_Expert", "action": "search", "state": "Mercedes Sosa discography on the latest 2022 version of English Wikipedia"}

@@ -1,0 +1,3 @@
+{"agent": "FilmCritic_Expert", "action": "verify", "state": "the object is a gold-colored plane"}
+{"agent": "JamesBondFilms_Expert", "action": "provide context", "state": "describe the scene in Fort Knox where Bond and Galore hide"}
+{"agent": "MovieProp_Expert", "action": "confirm color", "state": "the object is gold in color"}

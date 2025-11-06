@@ -1,0 +1,2 @@
+{"agent": "Literature_Expert", "action": "write script", "state": "extract the relevant section from Chapter 2"}
+{"agent": "Neurology_Expert", "action": "refine script", "state": "parse the response and look for Chapter 2 specifically"}

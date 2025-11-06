@@ -1,0 +1,3 @@
+{"agent": "CorporateHistory_IPOs_MondayCom_Expert", "action": "conclude", "state": "identify individuals who did not hold a C-suite position during the IPO"}
+{"agent": "CorporateHistory_IPOs_MondayCom_Expert", "action": "research", "state": "determine current and past C-suite members of monday.com"}
+{"agent": "CorporateHistory_IPOs_MondayCom_Expert", "action": "summarize", "state": "summarize the findings about C-suite members during the IPO"}

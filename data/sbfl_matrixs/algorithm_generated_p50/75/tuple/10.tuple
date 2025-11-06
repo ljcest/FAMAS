@@ -1,0 +1,2 @@
+{"agent": "DataAnalysis_Expert", "action": "request", "state": "provide the correct URL for scraping data on Reference Works"}
+{"agent": "Data_Collection_Expert", "action": "write script", "state": "Script to scrape the necessary data from ScienceDirect"}

@@ -1,0 +1,2 @@
+{"agent": "API_Expert", "action": "update script", "state": "include authentication with personal access token"}
+{"agent": "API_Expert", "action": "write script", "state": "fetch issues with the Regression label from the numpy/numpy repository"}

@@ -1,0 +1,4 @@
+{"agent": "MagenticOneOrchestrator", "action": "identify", "state": "the fifth section of federal rules alphabetically"}
+{"agent": "MagenticOneOrchestrator", "action": "navigate", "state": "to the Cornell Law School website's Legal Information Institute and locate the list of federal rules"}
+{"agent": "WebSurfer", "action": "click", "state": "Federal Rules of Evidence"}
+{"agent": "WebSurfer", "action": "type", "state": "https://www.law.cornell.edu/' "}

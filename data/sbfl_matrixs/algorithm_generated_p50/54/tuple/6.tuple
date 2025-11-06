@@ -1,0 +1,3 @@
+{"agent": "ClinicalTrials_Expert", "action": "provide", "state": "simulated Python code example for fetching clinical trials data"}
+{"agent": "Clinical_Trial_Data_Analysis_Expert", "action": "outline steps", "state": "search for clinical trials on H. pylori in acne vulgaris from Jan-May 2018 on NIH website"}
+{"agent": "Validation_Expert", "action": "request", "state": "proceed with the search on the ClinicalTrials.gov website using outlined steps"}

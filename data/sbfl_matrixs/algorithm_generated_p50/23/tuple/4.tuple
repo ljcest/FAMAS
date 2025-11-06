@@ -1,0 +1,2 @@
+{"agent": "Church_Historian_Expert", "action": "research", "state": "look up the portrait with accession number 29.100.5 and identify the subject"}
+{"agent": "DataVerification_Expert", "action": "update script", "state": "include function definition in the code to get portrait details"}

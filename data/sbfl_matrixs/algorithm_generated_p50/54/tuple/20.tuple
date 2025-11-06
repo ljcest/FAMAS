@@ -1,0 +1,3 @@
+{"agent": "ClinicalTrials_Expert", "action": "prepare", "state": "interpret the clinical trial data and ensure it aligns with the clinical trial processes and context"}
+{"agent": "Clinical_Trial_Data_Analysis_Expert", "action": "search", "state": "NIH database for clinical trials related to H. pylori and acne vulgaris"}
+{"agent": "Validation_Expert", "action": "prepare", "state": "verify the accuracy and authenticity of the data once it is available"}

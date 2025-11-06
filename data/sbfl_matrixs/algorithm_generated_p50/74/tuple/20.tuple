@@ -1,0 +1,2 @@
+{"agent": "MerriamWebsterWordOfTheDay_Historian_Expert", "action": "fetch", "state": "Word of the Day for June 27, 2022"}
+{"agent": "Quotation_Specialist", "action": "wait", "state": "for Word of the Day information to proceed"}

@@ -1,0 +1,2 @@
+{"agent": "Geography_Expert", "action": "write script", "state": "fetch population data for Seattle and Colville"}
+{"agent": "Validation_Expert", "action": "revise script", "state": "correct the API call to fetch population data without API key"}

@@ -1,0 +1,3 @@
+{"agent": "ArtHistory_Expert", "action": "analyze", "state": "determine which animals have a hand visible in the exhibition"}
+{"agent": "ArtHistory_Expert", "action": "research", "state": "gather information about the 2015 Metropolitan Museum of Art exhibition and zodiac animals"}
+{"agent": "Chinese_Zodiac_Expert", "action": "provide", "state": "describe typical representations of the twelve zodiac animals"}

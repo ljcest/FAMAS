@@ -1,0 +1,3 @@
+{"agent": "DataVerification_Expert", "action": "plan", "state": "Use location-based services and maps to find eateries near Harkness Memorial State Park that are open at 11 PM on Wednesdays"}
+{"agent": "Eateries_Expert", "action": "suggest alternative", "state": "Conduct a manual search using Google Maps or Yelp for eateries near Harkness Memorial State Park"}
+{"agent": "Location-Based_Services_Expert", "action": "search", "state": "eateries near Harkness Memorial State Park open at 11 PM on Wednesdays using coordinates"}

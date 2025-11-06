@@ -1,0 +1,2 @@
+{"agent": "FilmCritic_Expert", "action": "verify", "state": "colors of the object in Goldfinger"}
+{"agent": "MovieProp_Expert", "action": "compile", "state": "colors of the object in Goldfinger"}

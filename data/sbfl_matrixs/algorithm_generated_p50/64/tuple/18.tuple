@@ -1,0 +1,3 @@
+{"agent": "MilitaryHistory_Expert", "action": "suggest", "state": "conduct manual web search for information on the photograph and book author"}
+{"agent": "Verification_Expert", "action": "assist", "state": "wait for findings from manual search"}
+{"agent": "Whitney_Collection_Expert", "action": "inform", "state": "will conduct manual web search with suggested queries"}

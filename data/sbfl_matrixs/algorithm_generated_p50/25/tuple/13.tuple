@@ -1,0 +1,3 @@
+{"agent": "ModelEvaluation_Interpretation_Expert", "action": "prompt", "state": "Gather necessary information from arXiv.org to fulfill the task"}
+{"agent": "Physics_Expert", "action": "outline", "state": "Extract label words from June 2022 paper and check August 2016 article"}
+{"agent": "Verification_Expert", "action": "guide", "state": "Provide step-by-step instructions for finding and verifying label words"}

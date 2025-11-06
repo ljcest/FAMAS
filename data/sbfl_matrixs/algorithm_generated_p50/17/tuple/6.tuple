@@ -1,0 +1,2 @@
+{"agent": "MarineBiology_Expert", "action": "write script", "state": "access Wikipedia page for Greenland and extract population data"}
+{"agent": "Verification_Expert", "action": "revise script", "state": "search for the population data using a more reliable approach"}

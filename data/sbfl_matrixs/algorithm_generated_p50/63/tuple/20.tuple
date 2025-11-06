@@ -1,0 +1,2 @@
+{"agent": "MusicTheory_Expert", "action": "request", "state": "display the image for manual inspection"}
+{"agent": "Verification_Expert", "action": "suggest", "state": "manual inspection of the image for note identification"}

@@ -1,0 +1,2 @@
+{"agent": "Boggle_Board_Expert", "action": "download", "state": "words_alpha dictionary"}
+{"agent": "Dictionary_Expert", "action": "download dictionary", "state": "use Python to download words_alpha dictionary"}

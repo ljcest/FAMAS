@@ -1,0 +1,2 @@
+{"agent": "API_Expert", "action": "investigate", "state": "modify script to list all closed issues and their labels"}
+{"agent": "API_Expert", "action": "write script", "state": "fetch the oldest closed issue with the Regression label"}

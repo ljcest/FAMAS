@@ -58,7 +58,7 @@ def get_agent_count_and_presence_map(matrix: List[List], tuple_file: str):
 
 def compute_spectrum_score(matrix_file: str, test_file: str, formula_name: str, input_dir: str,
                          output_dir: str, all_agentsteps_sorted: List[AgentStep],
-                         no_lambda: bool, no_gamma: bool, no_beta: bool, lambda_value: float):
+                         no_lambda: bool, no_gamma: bool, no_beta: bool, lambda_value: float, usage_percentage: float = 1.0):
     matrix = pd.read_csv(matrix_file, header=None).values
 
     with open(test_file, "r", encoding="utf-8") as f:
@@ -111,7 +111,9 @@ def compute_spectrum_score(matrix_file: str, test_file: str, formula_name: str, 
         suspiciousness.append(scores)
 
     tuple_path = Path(input_dir) / "tuple"
-    spectrum_results_path = Path(output_dir) / f"{formula_name}_{0 if no_lambda else lambda_value}_{0 if no_gamma else 1}_{0 if no_beta else 1}"
+    # 构建结果路径，包含百分比信息（如果不是100%）
+    usage_suffix = f"_p{int(usage_percentage*100)}" if usage_percentage < 1.0 else ""
+    spectrum_results_path = Path(output_dir) / f"{formula_name}_{0 if no_lambda else lambda_value}_{0 if no_gamma else 1}_{0 if no_beta else 1}{usage_suffix}"
     spectrum_results_path.mkdir(parents=True, exist_ok=True)
     spectrum_map = {}
     for i, tup in enumerate(all_agentsteps_sorted):
@@ -147,18 +149,29 @@ def compute_spectrum_score(matrix_file: str, test_file: str, formula_name: str, 
 
 
 def process_all_examples(input_root: str, output_root: str, formula: str,
-                         no_lambda = False, no_gamma = False, no_beta = False, lambda_value = 0.9):
+                         no_lambda = False, no_gamma = False, no_beta = False, lambda_value = 0.9, usage_percentage = 1.0):
+    """
+    处理所有示例
+    :param input_root: 输入根目录
+    :param output_root: 输出根目录
+    :param formula: 公式名称
+    :param no_lambda: 是否禁用lambda
+    :param no_gamma: 是否禁用gamma
+    :param no_beta: 是否禁用beta
+    :param lambda_value: lambda值
+    :param usage_percentage: 使用日志的百分比 (0.0-1.0)，例如0.5表示只使用前50%的日志
+    """
     for dirname in os.listdir(input_root):
         if dirname == ".DS_Store":continue
         input_example = os.path.join(input_root, dirname)
         output_example = os.path.join(output_root, dirname)
 
         if os.path.isdir(input_example):
-            print(f"Processing: {dirname}")
+            print(f"Processing: {dirname} (using {usage_percentage*100:.1f}% of logs)")
             os.makedirs(output_example, exist_ok=True)
             all_agentsteps_sorted = sbfl_martic.get_all_steps_and_all_bigrams(input_example)
             matrix_file, test_file = sbfl_martic.get_all_matrix_files(input_example)
-            compute_spectrum_score(matrix_file, test_file, formula, input_example, output_example, all_agentsteps_sorted, no_lambda, no_gamma, no_beta, lambda_value)
+            compute_spectrum_score(matrix_file, test_file, formula, input_example, output_example, all_agentsteps_sorted, no_lambda, no_gamma, no_beta, lambda_value, usage_percentage)
 
 
 if __name__ == "__main__":
@@ -169,11 +182,16 @@ if __name__ == "__main__":
     parser.add_argument("--no-lambda", action="store_true", help="Disable lambda")
     parser.add_argument("--no-beta", action="store_true", help="Disable beta") 
     parser.add_argument("--no-gamma", action="store_true", help="Disable gamma")
-    parser.add_argument("--lambda_value", type=float, default=0.9, help="Lambda value (0.5-1.0")
-
+    parser.add_argument("--lambda_value", type=float, default=0.9, help="Lambda value (0.5-1.0)")
+    parser.add_argument("--usage_percentage", type=float, default=1.0, help="The percentage of a log file used (0.0-1.0), e.g., 0.5 means using first 50%% of logs")
 
     args = parser.parse_args()
 
+    # 验证 usage_percentage 的范围
+    if not 0.0 < args.usage_percentage <= 1.0:
+        parser.error("usage_percentage must be in range (0.0, 1.0]")
+
     process_all_examples(args.input, args.output, args.formula,
-                         args.no_lambda, args.no_gamma, args.no_beta, args.lambda_value)
+                         args.no_lambda, args.no_gamma, args.no_beta, args.lambda_value,
+                         args.usage_percentage)
     

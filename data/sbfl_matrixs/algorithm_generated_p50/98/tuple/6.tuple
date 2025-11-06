@@ -1,0 +1,2 @@
+{"agent": "Probability_Expert", "action": "analyze", "state": "Determine the ball with the highest ejection count"}
+{"agent": "Probability_Expert", "action": "write script", "state": "simulate the game mechanics and ejection frequencies"}

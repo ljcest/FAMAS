@@ -1,0 +1,2 @@
+{"agent": "Movie_Expert", "action": "modify", "state": "alternative method to check movie availability"}
+{"agent": "StreamingService_Expert", "action": "verify", "state": "availability of Casino Royale (2006) on Netflix US"}

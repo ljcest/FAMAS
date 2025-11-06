@@ -1,0 +1,2 @@
+{"agent": "PythonDebugging_Expert", "action": "review", "state": "provided Python script to identify any syntax or logical errors"}
+{"agent": "PythonDebugging_Expert", "action": "test", "state": "the script with sample input and edge cases"}

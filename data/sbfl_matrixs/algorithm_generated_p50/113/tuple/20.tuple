@@ -1,0 +1,2 @@
+{"agent": "Reviews_Expert", "action": "outline steps", "state": "Identify and analyze trails for accessibility and ratings"}
+{"agent": "Verification_Expert", "action": "verify", "state": "web search results and plan next steps for data extraction"}

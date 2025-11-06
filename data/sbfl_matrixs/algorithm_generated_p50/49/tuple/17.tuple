@@ -1,0 +1,2 @@
+{"agent": "DataExtraction_Expert", "action": "write script", "state": "extract the necessary details about the employees, their assigned gift recipients, and their interests"}
+{"agent": "Validation_Expert", "action": "organize", "state": "structure the extracted data and prepare for analysis"}

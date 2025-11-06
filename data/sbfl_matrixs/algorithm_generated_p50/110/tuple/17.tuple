@@ -1,0 +1,2 @@
+{"agent": "DataAnalysis_Expert", "action": "write script", "state": "Prepare Python code to scrape recommended hikes and their ratings from TripAdvisor"}
+{"agent": "DataCollection_Expert", "action": "gather", "state": "Compile the list of hikes and prepare to collect ratings and reviews data from TripAdvisor"}

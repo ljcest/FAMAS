@@ -1,0 +1,3 @@
+{"agent": "DataAnalysis_Expert", "action": "modify script", "state": "Include a print statement to show the highest sale price"}
+{"agent": "RealEstate_Expert", "action": "plan", "state": "Verify the highest sale price of a high-rise apartment in Mission Bay, San Francisco, during the year 2021"}
+{"agent": "RealEstate_Expert", "action": "review", "state": "Check the highest sale price across different real estate platforms"}

@@ -1,0 +1,2 @@
+{"agent": "Accessibility_Expert", "action": "write script", "state": "calculate distances to accessible bars using Haversine formula"}
+{"agent": "BingAPI_Expert", "action": "update script", "state": "include print statements for distances"}

@@ -1,0 +1,3 @@
+{"agent": "BirdSpeciesIdentification_Expert", "action": "provide", "state": "common bird characteristics for identification"}
+{"agent": "BirdSpeciesIdentification_Expert", "action": "review", "state": "the video and note the characteristics of the bird featured"}
+{"agent": "Ornithology_Expert", "action": "suggest", "state": "gather information based on other reliable sources and expertise in bird identification"}

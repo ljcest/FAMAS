@@ -1,0 +1,2 @@
+{"agent": "DataAnalysis_Expert", "action": "revise script", "state": "directly fetch the Wikipedia page for Mercedes Sosa and parse the HTML"}
+{"agent": "InformationVerification_Expert", "action": "formulate query", "state": "search for Mercedes Sosa's discography on Wikipedia"}

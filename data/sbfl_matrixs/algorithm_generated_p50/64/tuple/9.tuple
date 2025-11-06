@@ -1,0 +1,2 @@
+{"agent": "Verification_Expert", "action": "propose", "state": "simulate a search in military records for the author"}
+{"agent": "Whitney_Collection_Expert", "action": "execute", "state": "run initial web search query for photograph information"}

@@ -1,0 +1,4 @@
+{"agent": "Geometry_Expert", "action": "request", "state": "specific information about the polygon's vertices or sides"}
+{"agent": "Geometry_Expert", "action": "wait", "state": "necessary details regarding the polygon's structure"}
+{"agent": "MathAnalysis_Expert", "action": "inform", "state": "Validation_Expert"}
+{"agent": "Validation_Expert", "action": "request", "state": "provide polygon type, side lengths, angles, and heights"}

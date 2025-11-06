@@ -1,0 +1,2 @@
+{"agent": "Literature_Expert", "action": "access", "state": "the book with the DOI 10.1353/book.24372"}
+{"agent": "Literature_Expert", "action": "write script", "state": "access the book content using the DOI"}

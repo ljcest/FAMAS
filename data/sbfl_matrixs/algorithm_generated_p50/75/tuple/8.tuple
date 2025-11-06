@@ -1,0 +1,2 @@
+{"agent": "DataAnalysis_Expert", "action": "propose", "state": "web scraping script to collect data from ScienceDirect"}
+{"agent": "Data_Collection_Expert", "action": "suggest", "state": "Python script for web scraping to collect data from ScienceDirect"}

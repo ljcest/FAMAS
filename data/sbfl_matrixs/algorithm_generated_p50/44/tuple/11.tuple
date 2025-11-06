@@ -1,0 +1,4 @@
+{"agent": "WebDevelopment_Expert", "action": "wait", "state": "for Web_Design_Expert to complete analysis"}
+{"agent": "WebDevelopment_Expert", "action": "wait", "state": "for Web_Design_Expert to gather information"}
+{"agent": "Web_Design_Expert", "action": "access", "state": "Eva Draconis's personal website through her YouTube page"}
+{"agent": "Web_Design_Expert", "action": "analyze", "state": "wave-like shape in the top banner"}

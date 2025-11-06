@@ -1,0 +1,2 @@
+{"agent": "Art_Historian_Expert", "action": "request", "state": "provide image or link to the portrait with accession number 29.100.5"}
+{"agent": "Church_Historian_Expert", "action": "research", "state": "look up the portrait with accession number 29.100.5 and identify the subject"}

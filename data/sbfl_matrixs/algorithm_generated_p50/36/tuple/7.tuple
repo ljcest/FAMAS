@@ -1,0 +1,2 @@
+{"agent": "ImageProcessing_Expert", "action": "install", "state": "install pytesseract and Pillow libraries"}
+{"agent": "ProblemSolving_Expert", "action": "prepare", "state": "run the OCR code to extract the fractions from the image"}

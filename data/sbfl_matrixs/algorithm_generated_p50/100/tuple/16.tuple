@@ -1,0 +1,2 @@
+{"agent": "Movie_Expert", "action": "write script", "state": "provide a new code snippet to check availability without relying on missing module"}
+{"agent": "StreamingService_Expert", "action": "write script", "state": "check availability for Casino Royale (2006) on Netflix US"}

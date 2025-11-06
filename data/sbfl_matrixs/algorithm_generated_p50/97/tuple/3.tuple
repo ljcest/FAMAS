@@ -1,0 +1,2 @@
+{"agent": "WikipediaHistory_Expert", "action": "search", "state": "Featured Articles promoted in November 2016"}
+{"agent": "Wikipedia_Editor_Expert", "action": "revise", "state": "ensure printing the output of Featured Articles promoted in November 2016"}

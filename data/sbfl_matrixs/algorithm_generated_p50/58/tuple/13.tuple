@@ -1,0 +1,2 @@
+{"agent": "ML_Libraries_Expert", "action": "search", "state": "check the Scikit-Learn July 2017 changelog for bug fixes"}
+{"agent": "Python_ScikitLearn_StatisticalAnalysis_Expert", "action": "search", "state": "fetch the Scikit-Learn July 2017 changelog from GitHub"}

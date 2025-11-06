@@ -1,0 +1,2 @@
+{"agent": "VideoContentAnalysis_Expert", "action": "update", "state": "update yt-dlp to the latest version"}
+{"agent": "VideoContentAnalysis_Expert", "action": "write script", "state": "download the video using yt-dlp and extract the audio for transcription"}

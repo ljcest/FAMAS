@@ -1,0 +1,2 @@
+{"agent": "DataAnalysis_Expert", "action": "adjust script", "state": "set hypothetical values for hike ratings and reviews"}
+{"agent": "DataCollection_Expert", "action": "write script", "state": "gather and verify information on each of the recommended hikes"}

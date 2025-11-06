@@ -1,0 +1,3 @@
+{"agent": "DataAnalysis_Expert", "action": "request", "state": "data format for analysis"}
+{"agent": "Data_Collection_Expert", "action": "provide", "state": "structured data for Life Science domains and Health Sciences"}
+{"agent": "Data_Collection_Expert", "action": "start", "state": "gather data on the number of Reference Works in each Life Science domain and Health Sciences from ScienceDirect"}

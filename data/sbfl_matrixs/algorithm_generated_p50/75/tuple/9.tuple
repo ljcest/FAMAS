@@ -1,0 +1,3 @@
+{"agent": "DataAnalysis_Expert", "action": "request", "state": "Share the dataset once the data is collected"}
+{"agent": "Data_Collection_Expert", "action": "inform", "state": "Will gather data on the number of Reference Works in each Life Science domain and Health Sciences as of 2022 from ScienceDirect"}
+{"agent": "Data_Collection_Expert", "action": "inform", "state": "Will use web scraping to extract the information from ScienceDirect"}

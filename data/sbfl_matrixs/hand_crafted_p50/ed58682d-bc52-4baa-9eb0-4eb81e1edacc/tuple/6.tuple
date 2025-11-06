@@ -1,0 +1,3 @@
+{"agent": "MagenticOneOrchestrator", "action": "Search", "state": "Michael Jackson's discography to confirm the title of his sixth studio album and the track listing to identify the fifth single from that album"}
+{"agent": "WebSurfer", "action": "type", "state": "Michael Jackson sixth studio album"}
+{"agent": "WebSurfer", "action": "type", "state": "list of singles from Michael Jackson's Thriller album"}

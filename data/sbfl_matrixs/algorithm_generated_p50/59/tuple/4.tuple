@@ -1,0 +1,2 @@
+{"agent": "DataExtraction_Expert", "action": "provide command", "state": "install Selenium again"}
+{"agent": "DataExtraction_Expert", "action": "update script", "state": "include proper WebDriver initialization for data extraction"}

@@ -1,0 +1,2 @@
+{"agent": "DataAnalysis_Expert", "action": "troubleshoot", "state": "check the structure of the CSV file to identify column names"}
+{"agent": "DataAnalysis_Expert", "action": "write script", "state": "Python code to analyze Seattle weather data from 2020 to 2023"}

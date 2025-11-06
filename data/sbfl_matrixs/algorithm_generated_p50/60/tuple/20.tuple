@@ -1,0 +1,2 @@
+{"agent": "DataAnalysis_Expert", "action": "revise script", "state": "re-examine the approach for scraping Survivor winners"}
+{"agent": "RealityTV_Historian_Expert", "action": "write script", "state": "scrape Wikipedia for Survivor winners up to the end of the 44th season"}

@@ -1,0 +1,3 @@
+{"agent": "Data_Analysis_Expert", "action": "coordinate", "state": "request sales data for the two specified homes in Pearl City, Hawaii"}
+{"agent": "HawaiiRealEstate_Expert", "action": "provide", "state": "sales data for 2072 Akaikai Loop and 2017 Komo Mai Drive"}
+{"agent": "Validation_Expert", "action": "verify", "state": "accuracy of sales data for the two homes"}

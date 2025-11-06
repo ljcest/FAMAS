@@ -1,0 +1,3 @@
+{"agent": "Narration_Expert", "action": "outline steps", "state": "Identify the specific YouTube video, retrieve captions, identify the moment, and listen to the narration"}
+{"agent": "Narration_Expert", "action": "watch video", "state": "identified the number 65 million mentioned immediately after dinosaurs are shown"}
+{"agent": "Video_Analyst_Expert", "action": "refine search", "state": "Manually search for the specific YouTube video using refined keywords"}

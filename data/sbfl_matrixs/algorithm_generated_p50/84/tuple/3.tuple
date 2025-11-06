@@ -1,0 +1,2 @@
+{"agent": "ChessRules_Expert", "action": "install package", "state": "opencv-python"}
+{"agent": "Chess_Expert", "action": "write script", "state": "extract chess board position from the image"}

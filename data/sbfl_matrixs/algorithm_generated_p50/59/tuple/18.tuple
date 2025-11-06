@@ -1,0 +1,2 @@
+{"agent": "DataExtraction_Expert", "action": "write script", "state": "Correct WebDriver initialization and handle dynamic content loading"}
+{"agent": "DataVerification_Expert", "action": "provide command", "state": "install selenium and webdriver-manager using pip"}

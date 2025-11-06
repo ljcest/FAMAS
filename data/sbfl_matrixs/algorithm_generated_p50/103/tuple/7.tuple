@@ -1,0 +1,3 @@
+{"agent": "DataVerification_Expert", "action": "search", "state": "location of Harkness Memorial State Park and search for eateries near it"}
+{"agent": "Eateries_Expert", "action": "assist", "state": "Provide a preliminary list of eateries near Harkness Memorial State Park"}
+{"agent": "Location-Based_Services_Expert", "action": "propose", "state": "Manually gather information from reliable sources about nearby eateries"}

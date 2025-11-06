@@ -1,0 +1,3 @@
+{"agent": "Hiking_Expert", "action": "provide next steps", "state": "Manually check reviews for specified trails and gather data"}
+{"agent": "Hiking_Expert", "action": "summarize", "state": "Summarize the criteria for the trails and suggest starting points"}
+{"agent": "Reviews_Expert", "action": "outline steps", "state": "Identify and analyze trails for accessibility and ratings"}

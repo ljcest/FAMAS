@@ -1,0 +1,2 @@
+{"agent": "C++_Expert", "action": "plan", "state": "download, compile, and run the C++ code with the provided array"}
+{"agent": "PythonProgramming_Expert", "action": "write script", "state": "simulate URL extraction process based on input strings"}

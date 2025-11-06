@@ -1,0 +1,2 @@
+{"agent": "FilmCritic_Expert", "action": "verify", "state": "information about the golden Aston Martin DB5"}
+{"agent": "MovieProp_Expert", "action": "provide", "state": "details about the golden Aston Martin DB5"}

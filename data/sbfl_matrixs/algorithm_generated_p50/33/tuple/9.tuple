@@ -1,0 +1,2 @@
+{"agent": "DOI_Expert", "action": "execute", "state": "Access the book using the provided DOI"}
+{"agent": "InformationExtraction_Expert", "action": "plan", "state": "extract text from the PDF and focus on page 11"}

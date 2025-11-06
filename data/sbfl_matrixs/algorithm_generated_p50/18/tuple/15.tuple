@@ -1,0 +1,4 @@
+{"agent": "Literature_Expert", "action": "guide", "state": "request the text or stanzas of the poem for analysis"}
+{"agent": "Literature_Expert", "action": "reiterate", "state": "provide the text or lines from the poem for analysis"}
+{"agent": "Poetry_Expert", "action": "clarify", "state": "cannot access the text directly, request the text or stanzas for analysis"}
+{"agent": "Poetry_Expert", "action": "request", "state": "for the text of the poem to proceed"}

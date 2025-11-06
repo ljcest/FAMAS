@@ -1,0 +1,3 @@
+{"agent": "Literature_Expert", "action": "access", "state": "retrieve the content of Chapter 2 from the provided link"}
+{"agent": "Literature_Expert", "action": "revise", "state": "try to access Chapter 2 directly"}
+{"agent": "Literature_Expert", "action": "write script", "state": "access the book content using the DOI"}

@@ -1,0 +1,2 @@
+{"agent": "Accessibility_Expert", "action": "write script", "state": "get distance and accessibility of bars near Mummers Museum"}
+{"agent": "BingAPI_Expert", "action": "adjust", "state": "include mocked distance and accessibility data for bars"}

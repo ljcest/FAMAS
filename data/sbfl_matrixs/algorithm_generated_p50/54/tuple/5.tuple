@@ -1,0 +1,2 @@
+{"agent": "Clinical_Trial_Data_Analysis_Expert", "action": "write script", "state": "fetch clinical trial data from NIH website"}
+{"agent": "Validation_Expert", "action": "update script", "state": "add error handling and print response text for debugging"}

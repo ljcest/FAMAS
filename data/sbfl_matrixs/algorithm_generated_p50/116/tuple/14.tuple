@@ -1,0 +1,2 @@
+{"agent": "DataAnalysis_Expert", "action": "write script", "state": "analyze real estate transactions data"}
+{"agent": "DataManipulation_Expert", "action": "update script", "state": "check for file existence and handle missing file"}

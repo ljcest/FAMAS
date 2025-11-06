@@ -1,0 +1,2 @@
+{"agent": "AquaticEcosystems_InvasiveSpecies_Expert", "action": "verify", "state": "double-check the presence of Amphiprion ocellaris in the USGS database"}
+{"agent": "Scientific_Verification_Expert", "action": "summarize", "state": "verified zip codes where Amphiprion ocellaris was found as a nonnative species before 2020: 33040, 33037, 34683"}

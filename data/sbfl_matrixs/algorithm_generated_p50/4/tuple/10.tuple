@@ -1,0 +1,4 @@
+{"agent": "Data_Analysis_Expert", "action": "assist", "state": "process and analyze the data once the actual sales data has been collected"}
+{"agent": "HawaiiRealEstate_Expert", "action": "execute", "state": "extract the sales data for the two homes"}
+{"agent": "HawaiiRealEstate_Expert", "action": "prepare query", "state": "fetch sales data for 2072 Akaikai Loop and 2017 Komo Mai Drive in Pearl City, Hawaii"}
+{"agent": "Validation_Expert", "action": "validate", "state": "confirm findings and output format"}

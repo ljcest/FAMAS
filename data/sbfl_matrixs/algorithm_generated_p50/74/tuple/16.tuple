@@ -1,0 +1,3 @@
+{"agent": "MerriamWebsterWordOfTheDay_Historian_Expert", "action": "provide", "state": "Word of the Day for June 27, 2022 was queasy"}
+{"agent": "Quotation_Specialist", "action": "identify", "state": "the specific writer quoted for the word perfunctory"}
+{"agent": "Quotation_Specialist", "action": "wait", "state": "for the Word of the Day for June 27, 2022"}

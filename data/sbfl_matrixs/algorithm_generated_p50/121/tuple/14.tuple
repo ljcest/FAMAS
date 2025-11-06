@@ -1,0 +1,2 @@
+{"agent": "Debugging_Expert", "action": "analyze", "state": "error message and identify potential causes"}
+{"agent": "JSON_Expert", "action": "verify", "state": "solution and test with additional invalid JSON examples"}

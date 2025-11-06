@@ -1,0 +1,2 @@
+{"agent": "NumericalAnalysis_Expert", "action": "suggest", "state": "Simulate the extraction and analysis process using hypothetical data"}
+{"agent": "ScientificPaperAnalysis_Expert", "action": "analyze", "state": "Identify the section where the volume of the fish bag is calculated"}

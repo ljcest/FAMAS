@@ -1,0 +1,2 @@
+{"agent": "JamesBondFilms_Expert", "action": "request information", "state": "gather input from MovieProp_Expert and FilmCritic_Expert"}
+{"agent": "MovieProp_Expert", "action": "provide information", "state": "parachute used by James Bond and Pussy Galore was white"}

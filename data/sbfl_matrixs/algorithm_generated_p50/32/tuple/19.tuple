@@ -1,0 +1,2 @@
+{"agent": "DataVerification_Expert", "action": "search", "state": "use Bing Search API to gather required information from online sources"}
+{"agent": "SpeciesSightingsData_Expert", "action": "write script", "state": "query USGS database for American Alligator sightings west of Texas"}

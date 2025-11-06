@@ -1,0 +1,3 @@
+{"agent": "DataAnalysis_Expert", "action": "write script", "state": "find the train with the maximum number of passengers from passenger_data_may_27_2019.csv"}
+{"agent": "Database_Expert", "action": "plan", "state": "Identify the time the Tri-Rail train that carried the most passengers on May 27, 2019 was scheduled to arrive in Pompano Beach"}
+{"agent": "Database_Expert", "action": "wait", "state": "for the DataAnalysis_Expert to provide the train ID with the most passengers on May 27, 2019"}

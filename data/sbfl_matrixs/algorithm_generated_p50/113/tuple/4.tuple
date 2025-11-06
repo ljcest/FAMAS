@@ -1,0 +1,2 @@
+{"agent": "Hiking_Expert", "action": "review", "state": "findings of the trail analysis"}
+{"agent": "Reviews_Expert", "action": "analyze", "state": "reviews for trails in Yosemite National Park"}

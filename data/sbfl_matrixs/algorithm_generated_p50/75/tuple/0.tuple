@@ -1,0 +1,2 @@
+{"agent": "DataAnalysis_Expert", "action": "write script", "state": "scrape data from ScienceDirect"}
+{"agent": "Data_Collection_Expert", "action": "install libraries", "state": "install requests and beautifulsoup4 for web scraping"}

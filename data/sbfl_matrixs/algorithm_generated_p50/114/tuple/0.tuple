@@ -1,0 +1,2 @@
+{"agent": "DataAnalysis_Expert", "action": "break down", "state": "sample dataset and function for filtering houses"}
+{"agent": "Verification_Expert", "action": "emphasize", "state": "Importance of thorough verification once dataset is received"}

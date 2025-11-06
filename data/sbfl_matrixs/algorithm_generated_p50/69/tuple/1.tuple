@@ -1,0 +1,2 @@
+{"agent": "VideoContentAnalysis_Expert", "action": "suggest", "state": "Download the video using yt-dlp and extract the audio using ffmpeg"}
+{"agent": "VideoContentAnalysis_Expert", "action": "suggest", "state": "Use yt-dlp with cookies to bypass bot verification"}

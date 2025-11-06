@@ -1,0 +1,2 @@
+{"agent": "AcademicPublication_Expert", "action": "search", "state": "search for the paper to identify its authors"}
+{"agent": "AcademicPublication_Expert", "action": "suggest", "state": "install the scholarly package and rerun the search"}

@@ -1,0 +1,2 @@
+{"agent": "OpenCV_Expert", "action": "check", "state": "GitHub repository for OpenCV version 4.1.2 contributors and compare with former Chinese heads of government"}
+{"agent": "OpenCV_Expert", "action": "execute", "state": "list contributors directly using git command"}

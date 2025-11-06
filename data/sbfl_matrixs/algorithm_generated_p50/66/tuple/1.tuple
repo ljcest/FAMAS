@@ -1,0 +1,3 @@
+{"agent": "BiblicalScholar_Expert", "action": "identify", "state": "the first place mentioned by name in the Book of Esther (NIV) is Susa"}
+{"agent": "MiddleEasternHistory_Expert", "action": "determine", "state": "the Prime Minister of Shushan (Susa) in April 1977 was Jamshid Amouzegar"}
+{"agent": "Verification_Expert", "action": "verify", "state": "information provided by BiblicalScholar_Expert and MiddleEasternHistory_Expert"}

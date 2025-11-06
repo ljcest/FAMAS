@@ -1,0 +1,2 @@
+{"agent": "AquaticEcosystems_InvasiveSpecies_Expert", "action": "write script", "state": "check the USGS database for Amphiprion ocellaris"}
+{"agent": "Scientific_Verification_Expert", "action": "debug", "state": "add debugging output to inspect table contents"}

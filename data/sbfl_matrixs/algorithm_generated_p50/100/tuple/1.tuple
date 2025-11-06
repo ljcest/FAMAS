@@ -1,0 +1,2 @@
+{"agent": "Movie_Expert", "action": "update script", "state": "check availability of both movies using an inline search function"}
+{"agent": "StreamingService_Expert", "action": "verify", "state": "availability of Daniel Craig movies on Netflix (US)"}

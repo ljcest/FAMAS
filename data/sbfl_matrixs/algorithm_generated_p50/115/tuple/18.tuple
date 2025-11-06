@@ -1,0 +1,3 @@
+{"agent": "ProblemSolving_Expert", "action": "wait", "state": "for Verification_Expert to verify the ticket prices"}
+{"agent": "Verification_Expert", "action": "inform", "state": "Python code to verify ticket prices and calculate savings"}
+{"agent": "Verification_Expert", "action": "verify", "state": "costs of daily ticket and season pass for California's Great America in 2024"}

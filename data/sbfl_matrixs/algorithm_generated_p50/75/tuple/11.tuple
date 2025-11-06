@@ -1,0 +1,2 @@
+{"agent": "DataAnalysis_Expert", "action": "review", "state": "the web scraping logic and suggest updates to the script"}
+{"agent": "Data_Collection_Expert", "action": "write script", "state": "gather data on the number of Reference Works in each Life Science domain and Health Sciences as of 2022 from ScienceDirect"}

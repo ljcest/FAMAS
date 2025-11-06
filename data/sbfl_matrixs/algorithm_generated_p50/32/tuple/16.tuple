@@ -1,0 +1,3 @@
+{"agent": "AlligatorBiology_Expert", "action": "outline steps", "state": "search USGS records and provide context"}
+{"agent": "DataVerification_Expert", "action": "adjust approach", "state": "use Bing Search API to find relevant information"}
+{"agent": "SpeciesSightingsData_Expert", "action": "search", "state": "Historical records of American Alligator sightings west of Texas"}

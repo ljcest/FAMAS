@@ -1,0 +1,2 @@
+{"agent": "DataManipulation_Expert", "action": "explore", "state": "explore the CSV file to understand its structure"}
+{"agent": "Verification_Expert", "action": "revise plan", "state": "create a general plan and relevant code snippets to perform the necessary tasks"}

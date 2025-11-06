@@ -1,0 +1,2 @@
+{"agent": "Boggle_Board_Expert", "action": "write script", "state": "load dictionary and represent Boggle board"}
+{"agent": "Dictionary_Expert", "action": "represent", "state": "Represent the Boggle board as a 2D list"}

@@ -1,0 +1,2 @@
+{"agent": "Physics_Expert", "action": "guide", "state": "Steps to locate the figure and extract label words from the AI regulation paper and check the 2016 article"}
+{"agent": "Verification_Expert", "action": "strategize", "state": "plan to access and extract label words from the AI regulation paper"}

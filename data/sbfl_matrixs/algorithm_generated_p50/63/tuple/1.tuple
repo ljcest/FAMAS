@@ -1,0 +1,2 @@
+{"agent": "MusicTheory_Expert", "action": "execute", "state": "run OCR process to extract note letters"}
+{"agent": "Verification_Expert", "action": "suggest", "state": "use pytesseract library for OCR"}

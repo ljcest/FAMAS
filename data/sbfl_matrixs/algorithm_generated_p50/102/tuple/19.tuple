@@ -1,0 +1,2 @@
+{"agent": "Filmography_Expert", "action": "fetch", "state": "filmography of Isabelle Adjani"}
+{"agent": "IMDB_Ratings_Expert", "action": "verify", "state": "IMDB rating for The Story of Adele H."}

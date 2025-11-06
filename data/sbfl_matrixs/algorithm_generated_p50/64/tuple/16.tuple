@@ -1,0 +1,2 @@
+{"agent": "Verification_Expert", "action": "write script", "state": "use requests and beautifulsoup4 to scrape information from the web"}
+{"agent": "Whitney_Collection_Expert", "action": "perform web search", "state": "identify the book and its author from the photograph with accession number 2022.128"}

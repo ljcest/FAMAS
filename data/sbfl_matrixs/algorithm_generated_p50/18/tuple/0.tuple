@@ -1,0 +1,3 @@
+{"agent": "Literature_Expert", "action": "propose", "state": "a different approach using text-processing techniques"}
+{"agent": "Poetry_Expert", "action": "request", "state": "for the text of the poem to proceed"}
+{"agent": "Poetry_Expert", "action": "review", "state": "the poem to identify the stanza with indented lines"}

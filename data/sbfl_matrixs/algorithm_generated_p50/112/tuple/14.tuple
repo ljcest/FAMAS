@@ -1,0 +1,2 @@
+{"agent": "Statistics_Expert", "action": "create mock data", "state": "simulate historical weather data for New Year\u2019s Eve in Chicago"}
+{"agent": "Validation_Expert", "action": "validate", "state": "check CSV file availability and validate data retrieval"}

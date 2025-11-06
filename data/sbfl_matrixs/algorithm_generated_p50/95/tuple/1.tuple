@@ -1,0 +1,2 @@
+{"agent": "AcademicPublication_Expert", "action": "inform", "state": "PubMed search provided results, now searching IEEE Xplore"}
+{"agent": "AcademicPublication_Expert", "action": "write script", "state": "search for the paper and its authors on Google Scholar"}

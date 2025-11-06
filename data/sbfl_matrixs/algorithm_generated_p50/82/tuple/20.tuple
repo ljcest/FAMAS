@@ -1,0 +1,2 @@
+{"agent": "CelestialPhysics_Expert", "action": "break down", "state": "the plan step-by-step and prepare the Python script for calculations"}
+{"agent": "Verification_Expert", "action": "verify", "state": "the accuracy of the calculations and assumptions used"}

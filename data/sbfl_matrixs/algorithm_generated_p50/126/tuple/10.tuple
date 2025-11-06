@@ -1,0 +1,2 @@
+{"agent": "CorporateHistory_IPOs_MondayCom_Expert", "action": "analyze", "state": "current and IPO-time C-suite members of monday.com"}
+{"agent": "Verification_Expert", "action": "verify", "state": "gather evidence from credible sources about C-suite members during IPO"}

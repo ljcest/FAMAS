@@ -1,0 +1,2 @@
+{"agent": "DataAnalysis_Expert", "action": "propose", "state": "Review the sample dataset and verify the function for finding the smallest house"}
+{"agent": "Verification_Expert", "action": "request", "state": "Provide the CSV file path for the dataset to start the verification process"}

@@ -1,0 +1,2 @@
+{"agent": "PublicationData_Expert", "action": "write script", "state": "calculate the number of incorrect papers using assumed values"}
+{"agent": "VerificationExpert", "action": "verify", "state": "confirm the number of incorrect papers is 50"}

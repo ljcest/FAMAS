@@ -1,0 +1,2 @@
+{"agent": "DataAnalysis_Expert", "action": "write script", "state": "find the vendor that makes the least money relative to the rent it pays"}
+{"agent": "Financial_Expert", "action": "check columns", "state": "check the column names in the DataFrame"}

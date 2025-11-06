@@ -1,0 +1,2 @@
+{"agent": "HawaiiRealEstate_Expert", "action": "write script", "state": "extract sales data for the specified homes"}
+{"agent": "Validation_Expert", "action": "update script", "state": "ensure result is printed explicitly"}

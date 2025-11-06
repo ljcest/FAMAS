@@ -1,0 +1,2 @@
+{"agent": "Locomotive_Expert", "action": "execute", "state": "run code to read the Excel file and extract unique wheel configurations"}
+{"agent": "Locomotive_Expert", "action": "segregate", "state": "steam locomotive configurations from others"}

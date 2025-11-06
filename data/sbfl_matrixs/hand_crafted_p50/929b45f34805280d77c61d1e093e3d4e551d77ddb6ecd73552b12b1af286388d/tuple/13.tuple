@@ -1,0 +1,22 @@
+{"agent": "MagenticOneOrchestrator", "action": "navigate", "state": "NCBI Datasets page for Canis lupus familiaris (dog) genome assemblies and locate the CanFam3.1 assembly"}
+{"agent": "MagenticOneOrchestrator", "action": "navigate", "state": "to the Ensembl FTP site and search for the Canis lupus familiaris (dog) genome assembly files"}
+{"agent": "MagenticOneOrchestrator", "action": "navigate", "state": "to the Ensembl page for the GSD_1.0 genome assembly files"}
+{"agent": "MagenticOneOrchestrator", "action": "navigate", "state": "to the section on the Ensembl FTP download page where the GSD_1.0 genome assembly files can be downloaded"}
+{"agent": "MagenticOneOrchestrator", "action": "plan", "state": "address the user request for the most relevant dog genome files as of May 2020"}
+{"agent": "MagenticOneOrchestrator", "action": "scroll", "state": "Down the species list to find 'Canis lupus familiaris' and click on it"}
+{"agent": "MagenticOneOrchestrator", "action": "search", "state": "CanFam4 (GSD_1.0) dog genome assembly on the Ensembl website"}
+{"agent": "MagenticOneOrchestrator", "action": "search", "state": "Most recent dog genome assembly as of May 2020"}
+{"agent": "MagenticOneOrchestrator", "action": "search", "state": "for 'Canis lupus familiaris' or 'dog' in the species list on the Ensembl FTP download page"}
+{"agent": "MagenticOneOrchestrator", "action": "type", "state": "https://hgdownload.soe.ucsc.edu/goldenPath/canFam3/bigZips/"}
+{"agent": "MagenticOneOrchestrator", "action": "update", "state": "the fact sheet based on the information gathered so far"}
+{"agent": "WebSurfer", "action": "click", "state": "Canis_lupus_familiaris - Ensembl genome browser 114"}
+{"agent": "WebSurfer", "action": "click", "state": "Downloads"}
+{"agent": "WebSurfer", "action": "click", "state": "FTP Download"}
+{"agent": "WebSurfer", "action": "click", "state": "UU_Cfam_GSD_1.0 - canFam4 - Genome - Assembly - NCBI"}
+{"agent": "WebSurfer", "action": "click", "state": "dogs - Search results - Genome - Assembly - NCBI"}
+{"agent": "WebSurfer", "action": "scroll", "state": "down one page on the FTP Download page"}
+{"agent": "WebSurfer", "action": "type", "state": "Canis lupus familiaris genome assembly GSD_1.0 download Ensembl university server"}
+{"agent": "WebSurfer", "action": "type", "state": "Canis lupus familiaris in Filter"}
+{"agent": "WebSurfer", "action": "type", "state": "NCBI dog genome assembly May 2020"}
+{"agent": "WebSurfer", "action": "type", "state": "https://www.ncbi.nlm.nih.gov/assembly/GCA_011100685.1"}
+{"agent": "WebSurfer", "action": "type", "state": "most relevant version of dog genome in May 2020 alternative sources"}

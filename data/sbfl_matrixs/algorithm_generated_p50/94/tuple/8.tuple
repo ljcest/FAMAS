@@ -1,0 +1,3 @@
+{"agent": "AnimalBehavior_Expert", "action": "request", "state": "provide a description of the bird's characteristics to move forward with the identification process"}
+{"agent": "BirdSpeciesIdentification_Expert", "action": "request", "state": "provide a brief description of the bird's physical characteristics and behavior"}
+{"agent": "BirdSpeciesIdentification_Expert", "action": "request", "state": "summarize the notable features or behaviors of the bird"}

@@ -1,0 +1,3 @@
+{"agent": "DataAnalysis_Expert", "action": "wait", "state": "await information from InformationVerification_Expert to analyze and verify"}
+{"agent": "InformationVerification_Expert", "action": "search", "state": "Mercedes Sosa discography on the latest 2022 version of English Wikipedia"}
+{"agent": "Latin_American_Music_Expert", "action": "provide context", "state": "Mercedes Sosa's contributions to Latin American music and encourage continuing the search"}

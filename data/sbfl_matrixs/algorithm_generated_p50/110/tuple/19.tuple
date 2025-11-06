@@ -1,0 +1,2 @@
+{"agent": "DataAnalysis_Expert", "action": "update script", "state": "add error handling to prevent the script from failing"}
+{"agent": "DataCollection_Expert", "action": "write script", "state": "gather information about the hikes from TripAdvisor"}

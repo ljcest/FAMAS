@@ -1,0 +1,2 @@
+{"agent": "DataAnalysis_Expert", "action": "update script", "state": "modify web scraping code to capture correct HTML elements"}
+{"agent": "Data_Collection_Expert", "action": "write script", "state": "set up data collection strategy and code for web scraping"}

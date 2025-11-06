@@ -1,0 +1,2 @@
+{"agent": "DataAnalysis_Expert", "action": "revise script", "state": "adjust selectors to account for potential changes in TripAdvisor structure"}
+{"agent": "DataCollection_Expert", "action": "write script", "state": "gather information about the hikes from TripAdvisor"}

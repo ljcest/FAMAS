@@ -1,0 +1,3 @@
+{"agent": "HawaiiRealEstate_Expert", "action": "analyze", "state": "determine which home sold for more and provide the sale price"}
+{"agent": "HawaiiRealEstate_Expert", "action": "write script", "state": "fetch sales data for the specified addresses"}
+{"agent": "Validation_Expert", "action": "validate", "state": "confirm findings and output format"}

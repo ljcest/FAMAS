@@ -1,0 +1,2 @@
+{"agent": "Geospatial_Expert", "action": "start", "state": "geocode karting tracks' addresses again"}
+{"agent": "Karting_Expert", "action": "suggest", "state": "install geopy library"}

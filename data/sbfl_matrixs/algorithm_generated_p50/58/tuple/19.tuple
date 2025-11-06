@@ -1,0 +1,2 @@
+{"agent": "ML_Libraries_Expert", "action": "write script", "state": "fetch and parse the Scikit-Learn July 2017 changelog"}
+{"agent": "Python_ScikitLearn_StatisticalAnalysis_Expert", "action": "identify", "state": "fit_predict method of the KMeans received a bug fix"}

@@ -1,0 +1,2 @@
+{"agent": "Bioinformatics_Expert", "action": "summarize", "state": "history and updates of the dog genome project and provide relevant links"}
+{"agent": "Verification_Expert", "action": "update script", "state": "modify code to print accessible links clearly"}

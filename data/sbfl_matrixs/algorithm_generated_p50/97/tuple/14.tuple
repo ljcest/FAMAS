@@ -1,0 +1,2 @@
+{"agent": "WikipediaHistory_Expert", "action": "revise script", "state": "fetch Featured Articles from November 2016 and filter for dinosaurs"}
+{"agent": "WikipediaHistory_Expert", "action": "search", "state": "history of Featured Article nominations and promotions in November 2016"}

@@ -1,0 +1,2 @@
+{"agent": "Statistics_Expert", "action": "write script", "state": "check the raw response to understand its structure"}
+{"agent": "WeatherData_Expert", "action": "write script", "state": "fetch historical weather data for Houston, Texas for the month of June from 2020 to 2023"}

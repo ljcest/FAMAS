@@ -1,0 +1,2 @@
+{"agent": "Geography_Expert", "action": "install libraries", "state": "Install necessary libraries for accessing web data"}
+{"agent": "Validation_Expert", "action": "write script", "state": "Fetch population data for Seattle and Colville from data.census.gov"}

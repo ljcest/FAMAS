@@ -1,0 +1,2 @@
+{"agent": "Physics_Expert", "action": "plan", "state": "Locate and analyze the relevant arXiv.org papers for the task"}
+{"agent": "Verification_Expert", "action": "assist", "state": "Verify the findings once the label words are extracted"}

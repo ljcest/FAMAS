@@ -1,0 +1,2 @@
+{"agent": "Boggle_Board_Expert", "action": "write script", "state": "implement DFS algorithm to explore Boggle board"}
+{"agent": "Verification_Expert", "action": "revise script", "state": "optimize DFS to reduce search space and improve efficiency"}

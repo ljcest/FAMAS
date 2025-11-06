@@ -1,0 +1,4 @@
+{"agent": "AnimalBehavior_Expert", "action": "agree", "state": "note specific timestamps and characteristics to streamline identification"}
+{"agent": "BirdSpeciesIdentification_Expert", "action": "repeat", "state": "BirdSpeciesIdentification_Expert"}
+{"agent": "BirdSpeciesIdentification_Expert", "action": "review", "state": "the video and note the characteristics of the bird featured"}
+{"agent": "Ornithology_Expert", "action": "suggest", "state": "gather details from the video to understand the bird species featured"}

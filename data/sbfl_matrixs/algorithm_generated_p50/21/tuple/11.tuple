@@ -1,0 +1,4 @@
+{"agent": "Linguistics_Expert", "action": "continue", "state": "analyzing the lyrics to find the second chorus"}
+{"agent": "Lyrics_Expert", "action": "analyze", "state": "confirm the fifth single and locate the second chorus"}
+{"agent": "Lyrics_Expert", "action": "plan", "state": "Identify the last word before the second chorus of Michael Jackson's song Thriller"}
+{"agent": "Lyrics_Expert", "action": "provide", "state": "part of the Python script to find the last word before the second chorus"}

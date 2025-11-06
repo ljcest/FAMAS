@@ -1,0 +1,2 @@
+{"agent": "DataAnalysis_Expert", "action": "summarize", "state": "results of the calculation and findings"}
+{"agent": "RealityTV_Historian_Expert", "action": "calculate", "state": "the difference in the number of unique winners between Survivor and American Idol"}

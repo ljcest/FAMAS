@@ -1,0 +1,2 @@
+{"agent": "Chess_Expert", "action": "analyze", "state": "hypothetical board position for black's turn"}
+{"agent": "Chess_Expert", "action": "request", "state": "provide the FEN string or description of the chess position"}

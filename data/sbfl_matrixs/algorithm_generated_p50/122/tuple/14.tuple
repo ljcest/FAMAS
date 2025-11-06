@@ -1,0 +1,2 @@
+{"agent": "Accessibility_Expert", "action": "gather addresses", "state": "addresses and accessibility of the listed bars"}
+{"agent": "BingAPI_Expert", "action": "provide", "state": "install geopy module"}

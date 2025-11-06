@@ -1,0 +1,2 @@
+{"agent": "Clinical_Trial_Data_Analysis_Expert", "action": "write script", "state": "search for clinical trials on H. pylori in acne vulgaris within the specified date range"}
+{"agent": "Validation_Expert", "action": "modify search", "state": "adjust search parameters to ensure a broader search for trials"}

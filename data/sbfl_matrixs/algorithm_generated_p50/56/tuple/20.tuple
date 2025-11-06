@@ -1,0 +1,3 @@
+{"agent": "RecyclingRate_Expert", "action": "proceed", "state": "with general information on recycling rate"}
+{"agent": "RecyclingRate_Expert", "action": "start", "state": "verifying the recycling rate for water bottles from Wikipedia"}
+{"agent": "RecyclingRate_Expert", "action": "wait", "state": "for the URL to proceed with scraping the data"}

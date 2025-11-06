@@ -1,0 +1,3 @@
+{"agent": "Filmography_Expert", "action": "compile list", "state": "feature films starring Isabelle Adjani with runtimes"}
+{"agent": "IMDB_Ratings_Expert", "action": "list films", "state": "manually list notable Isabelle Adjani films and their runtimes"}
+{"agent": "StreamingAvailability_Expert", "action": "check", "state": "availability of The Story of Adele H. on Vudu and retrieve its IMDB rating"}

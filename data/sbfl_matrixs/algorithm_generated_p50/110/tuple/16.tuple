@@ -1,0 +1,2 @@
+{"agent": "DataCollection_Expert", "action": "cross-reference", "state": "recommended hikes from the last response to ensure each hike is recommended by at least three different families with kids"}
+{"agent": "DataCollection_Expert", "action": "write script", "state": "gather information about the hikes from TripAdvisor"}

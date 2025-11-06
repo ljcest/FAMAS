@@ -1,0 +1,2 @@
+{"agent": "Grocery_Expert", "action": "verify", "state": "Check if Whole Foods Market, Costco, and Menards offer ready-to-eat salads under $15"}
+{"agent": "Verification_Expert", "action": "update script", "state": "Add print statements to display the results clearly"}

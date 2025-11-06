@@ -1,0 +1,2 @@
+{"agent": "AcademicPublication_Expert", "action": "revise script", "state": "search for the paper in IEEE Xplore"}
+{"agent": "AcademicPublication_Expert", "action": "write script", "state": "search for the paper and identify its authors"}

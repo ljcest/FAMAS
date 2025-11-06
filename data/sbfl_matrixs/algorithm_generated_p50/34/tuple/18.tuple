@@ -1,0 +1,2 @@
+{"agent": "Locomotive_Expert", "action": "analyze", "state": "identify steam locomotive configurations and define wheel counts"}
+{"agent": "Locomotive_Expert", "action": "execute", "state": "run code to read the Excel file and extract unique wheel configurations"}

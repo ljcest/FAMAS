@@ -1,0 +1,2 @@
+{"agent": "Clinical_Trial_Data_Analysis_Expert", "action": "write script", "state": "search and extract data from the NIH Clinical Trials database"}
+{"agent": "Validation_Expert", "action": "revise script", "state": "add error handling and correct URL format"}

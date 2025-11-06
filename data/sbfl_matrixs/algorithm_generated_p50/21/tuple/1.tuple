@@ -1,0 +1,2 @@
+{"agent": "Lyrics_Expert", "action": "analyze", "state": "lyrics of the song Thriller to locate the second chorus"}
+{"agent": "Lyrics_Expert", "action": "plan", "state": "Identify the last word before the second chorus of Michael Jackson's song Thriller"}

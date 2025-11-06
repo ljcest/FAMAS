@@ -1,0 +1,2 @@
+{"agent": "Tickets_Pricing_Expert", "action": "update script", "state": "modify the code to print the results"}
+{"agent": "Tickets_Pricing_Expert", "action": "write script", "state": "calculate the total cost for daily tickets and annual passes"}

@@ -1,0 +1,2 @@
+{"agent": "Accessibility_Expert", "action": "request", "state": "web search for addresses of bars"}
+{"agent": "BingAPI_Expert", "action": "perform", "state": "web search for addresses of bars"}

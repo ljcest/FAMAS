@@ -1,0 +1,9 @@
+{"agent": "MagenticOneOrchestrator", "action": "Search", "state": "authoritative databases or repositories that host GFF3 files for beluga whales"}
+{"agent": "MagenticOneOrchestrator", "action": "navigate", "state": "the Ensembl database to locate the section for beluga whale genomic data"}
+{"agent": "MagenticOneOrchestrator", "action": "navigate", "state": "to the 'Downloads' section of the Ensembl page for the beluga whale genome"}
+{"agent": "MagenticOneOrchestrator", "action": "plan", "state": "Address the user request for the GFF3 file for beluga whales as of 20/10/2020"}
+{"agent": "WebSurfer", "action": "click", "state": "Beluga whale 133428"}
+{"agent": "WebSurfer", "action": "click", "state": "Downloads"}
+{"agent": "WebSurfer", "action": "type", "state": "Delphinapterus leucas"}
+{"agent": "WebSurfer", "action": "type", "state": "https://archive.ensembl.org/"}
+{"agent": "WebSurfer", "action": "type", "state": "most recent GFF3 file for beluga whales as of 20/10/2020 NCBI Ensembl"}

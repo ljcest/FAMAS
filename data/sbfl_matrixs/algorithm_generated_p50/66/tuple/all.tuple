@@ -1,0 +1,20 @@
+{"agent": "BiblicalScholar_Expert", "action": "analyze", "state": "the Book of Esther to find the first named place"}
+{"agent": "BiblicalScholar_Expert", "action": "identify", "state": "the first place mentioned by name in the Book of Esther (NIV) is India"}
+{"agent": "BiblicalScholar_Expert", "action": "identify", "state": "the first place mentioned by name in the Book of Esther (NIV) is Susa"}
+{"agent": "MiddleEasternHistory_Expert", "action": "agree", "state": "with the assessment of Susa and Amir-Abbas Hoveyda"}
+{"agent": "MiddleEasternHistory_Expert", "action": "analyze", "state": "the Prime Minister of Iran in April 1977"}
+{"agent": "MiddleEasternHistory_Expert", "action": "determine", "state": "Prime Minister of Iran in April 1977 was Amir-Abbas Hoveyda"}
+{"agent": "MiddleEasternHistory_Expert", "action": "determine", "state": "Prime Minister of Iran in April 1977 was Jamshid Amouzegar"}
+{"agent": "MiddleEasternHistory_Expert", "action": "determine", "state": "Prime Minister of Susa (Iran) in April 1977"}
+{"agent": "MiddleEasternHistory_Expert", "action": "determine", "state": "Prime Minister of Susa in April 1977"}
+{"agent": "MiddleEasternHistory_Expert", "action": "determine", "state": "the Prime Minister of Shushan (Susa) in April 1977 was Jamshid Amouzegar"}
+{"agent": "MiddleEasternHistory_Expert", "action": "determine", "state": "the Prime Minister of Susa in April 1977 was Amir Abbas Hoveyda"}
+{"agent": "MiddleEasternHistory_Expert", "action": "inform", "state": "the Prime Minister of Iran in April 1977 was Amir-Abbas Hoveyda"}
+{"agent": "MiddleEasternHistory_Expert", "action": "verify", "state": "claims about the first place and Prime Minister of Iran in April 1977"}
+{"agent": "Verification_Expert", "action": "prepare", "state": "static verification code for Jamshid Amouzegar's tenure"}
+{"agent": "Verification_Expert", "action": "verify", "state": "Amir-Abbas Hoveyda was Prime Minister of Iran in April 1977"}
+{"agent": "Verification_Expert", "action": "verify", "state": "findings of the first place mentioned and Prime Minister in April 1977"}
+{"agent": "Verification_Expert", "action": "verify", "state": "information about Susa and Amir Abbas Hoveyda"}
+{"agent": "Verification_Expert", "action": "verify", "state": "information provided by BiblicalScholar_Expert"}
+{"agent": "Verification_Expert", "action": "verify", "state": "information provided by BiblicalScholar_Expert and MiddleEasternHistory_Expert"}
+{"agent": "Verification_Expert", "action": "write script", "state": "verify Amir Abbas Hoveyda's term as Prime Minister"}

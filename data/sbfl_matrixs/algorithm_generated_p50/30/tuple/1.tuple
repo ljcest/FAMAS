@@ -1,0 +1,2 @@
+{"agent": "Culinary_Expert", "action": "request", "state": "share the transcription of the audio file"}
+{"agent": "TranscriptionVerification_Expert", "action": "provide", "state": "transcription text and Python script to extract ingredients"}

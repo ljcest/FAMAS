@@ -1,0 +1,2 @@
+{"agent": "Locomotive_Expert", "action": "filter", "state": "filter out relevant steam locomotive configurations based on Whyte notation"}
+{"agent": "Locomotive_Expert", "action": "write script", "state": "extract unique wheel configurations from the Excel file"}

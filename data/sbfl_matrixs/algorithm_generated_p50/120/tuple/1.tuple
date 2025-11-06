@@ -1,0 +1,2 @@
+{"agent": "Vegan_Food_Expert", "action": "refine script", "state": "Adjust the verification script to correctly identify vegan dishes priced under $15"}
+{"agent": "Verification_Expert", "action": "verify", "state": "Confirm proximity, menu, and dining style of identified restaurants"}

@@ -1,0 +1,3 @@
+{"agent": "DOI_Expert", "action": "access", "state": "book using the provided DOI"}
+{"agent": "DOI_Expert", "action": "write script", "state": "retrieve reference details and locate specified information"}
+{"agent": "InformationExtraction_Expert", "action": "navigate", "state": "to actual content of the book on JSTOR"}

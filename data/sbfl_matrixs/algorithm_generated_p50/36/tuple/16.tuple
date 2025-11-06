@@ -1,0 +1,2 @@
+{"agent": "ImageProcessing_Expert", "action": "execute", "state": "run OCR code to extract text from the image"}
+{"agent": "ProblemSolving_Expert", "action": "suggest", "state": "Use pytesseract for OCR extraction"}

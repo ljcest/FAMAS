@@ -1,0 +1,2 @@
+{"agent": "DataVerification_Expert", "action": "execute search", "state": "Use Bing Search API to find relevant information from Girls Who Code or authoritative sources"}
+{"agent": "Statistics_Expert", "action": "outline steps", "state": "Identify the starting and final percentages, calculate the difference, and determine the number of years based on Girls Who Code data"}

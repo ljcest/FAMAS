@@ -1,0 +1,2 @@
+{"agent": "DataExtraction_Expert", "action": "write script", "state": "use python-docx to extract employee data from the document"}
+{"agent": "Validation_Expert", "action": "provide command", "state": "install python-docx library"}

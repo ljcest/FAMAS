@@ -1,0 +1,2 @@
+{"agent": "API_Expert", "action": "modify script", "state": "check all closed issues for the Regression label"}
+{"agent": "API_Expert", "action": "write script", "state": "fetch issues with the Regression label from the numpy/numpy repository"}

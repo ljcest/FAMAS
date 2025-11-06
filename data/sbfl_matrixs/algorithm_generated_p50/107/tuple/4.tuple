@@ -1,0 +1,2 @@
+{"agent": "Bioinformatics_Expert", "action": "search", "state": "Find relevant dog genome files in May 2020"}
+{"agent": "Verification_Expert", "action": "revise", "state": "Add error handling to API request"}

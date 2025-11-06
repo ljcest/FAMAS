@@ -1,0 +1,3 @@
+{"agent": "VSCode_Expert", "action": "suggest", "state": "focus on finding the relevant video from the blog post"}
+{"agent": "VideoContentAnalysis_Expert", "action": "clarify", "state": "need video or content details to extract the command"}
+{"agent": "VideoContentAnalysis_Expert", "action": "request", "state": "video file or link for analysis"}

@@ -1,0 +1,2 @@
+{"agent": "DOI_Expert", "action": "execute", "state": "Access the book using the provided DOI and retrieve the relevant page to locate the second-to-last paragraph on page 11"}
+{"agent": "InformationExtraction_Expert", "action": "plan", "state": "Use the JSTOR URL to access the book content"}

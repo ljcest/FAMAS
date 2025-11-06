@@ -1,0 +1,3 @@
+{"agent": "Clinical_Trial_Data_Analysis_Expert", "action": "locate", "state": "specific clinical trial on the NIH website and provide details"}
+{"agent": "Clinical_Trial_Data_Analysis_Expert", "action": "write script", "state": "search and extract data from the NIH Clinical Trials database"}
+{"agent": "Validation_Expert", "action": "suggest", "state": "monitor for updates from the Clinical Trial Data Analysis Expert regarding the data extraction process"}

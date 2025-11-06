@@ -1,0 +1,2 @@
+{"agent": "LocalHistorian_Expert", "action": "plan", "state": "verify the accuracy of the list of gyms within 5 miles of the Mothman Museum"}
+{"agent": "VerificationExpert", "action": "propose", "state": "use a mapping API to determine driving distances and filter gyms"}

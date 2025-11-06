@@ -1,0 +1,3 @@
+{"agent": "Geospatial_Expert", "action": "execute", "state": "geocoding script to obtain coordinates for karting tracks and paintball places"}
+{"agent": "Geospatial_Expert", "action": "request", "state": "karting track addresses for verification"}
+{"agent": "Paintball_Expert", "action": "provide", "state": "addresses of karting tracks and paintball places in Cologne"}

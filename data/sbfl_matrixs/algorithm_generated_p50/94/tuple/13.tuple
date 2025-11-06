@@ -1,0 +1,4 @@
+{"agent": "AnimalBehavior_Expert", "action": "outline", "state": "how to analyze behaviors and characteristics of different species"}
+{"agent": "BirdSpeciesIdentification_Expert", "action": "reiterate", "state": "need for specific details from the video"}
+{"agent": "BirdSpeciesIdentification_Expert", "action": "request", "state": "information about the bird featured in the video"}
+{"agent": "Ornithology_Expert", "action": "urge", "state": "for detailed notes on bird characteristics"}

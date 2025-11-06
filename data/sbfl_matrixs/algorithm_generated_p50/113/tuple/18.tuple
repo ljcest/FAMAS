@@ -1,0 +1,2 @@
+{"agent": "Hiking_Expert", "action": "request output", "state": "display the results of the filtered trails from the DataFrame"}
+{"agent": "Reviews_Expert", "action": "write script", "state": "analyze reviews to extract relevant trails"}

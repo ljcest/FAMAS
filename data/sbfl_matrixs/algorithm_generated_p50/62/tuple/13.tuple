@@ -1,0 +1,2 @@
+{"agent": "Literature_Expert", "action": "write script", "state": "generate Python code to simulate fetching the article content"}
+{"agent": "Research_Expert", "action": "outline steps", "state": "retrieve the article, locate the quoted text, and compare it with the in-line citation"}

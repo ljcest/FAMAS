@@ -1,0 +1,2 @@
+{"agent": "Local_Knowledge_Expert", "action": "define coordinates", "state": "Tompkins Square Park coordinates and find gyms within 200 meters"}
+{"agent": "Local_Knowledge_Expert", "action": "install package", "state": "install geopy package"}

@@ -1,0 +1,3 @@
+{"agent": "Literary_Analysis_Expert", "action": "request", "state": "actual title and content of Emily Midkiff's article in Fafnir"}
+{"agent": "NorseMythology_Expert", "action": "confirm", "state": "journal name Fafnir based on Hreidmar's sons"}
+{"agent": "Verification_Expert", "action": "suggest", "state": "use online academic databases to find the actual title of the article"}

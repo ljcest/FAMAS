@@ -1,0 +1,2 @@
+{"agent": "Geospatial_Expert", "action": "outline steps", "state": "Verify and geocode karting tracks and paintball places addresses, calculate walking distances, filter results"}
+{"agent": "Paintball_Expert", "action": "provide addresses", "state": "List of karting tracks and paintball places in Cologne, Germany with their addresses"}

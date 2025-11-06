@@ -1,0 +1,2 @@
+{"agent": "DoctorWhoScript_Expert", "action": "provide", "state": "exact setting as it appears in the first scene heading"}
+{"agent": "Validation_Expert", "action": "validate", "state": "information provided by DoctorWhoScript_Expert"}

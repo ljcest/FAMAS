@@ -1,0 +1,2 @@
+{"agent": "ChessRules_Expert", "action": "propose", "state": "extract chessboard state using OCR"}
+{"agent": "Chess_Expert", "action": "request", "state": "description of the chess position"}

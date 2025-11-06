@@ -1,0 +1,2 @@
+{"agent": "Bioinformatics_Expert", "action": "summarize", "state": "History and updates of the dog genome project and locate relevant files"}
+{"agent": "Verification_Expert", "action": "inform", "state": "links are accessible and valid for May 2020"}

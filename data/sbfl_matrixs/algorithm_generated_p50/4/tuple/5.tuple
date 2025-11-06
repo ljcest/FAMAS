@@ -1,0 +1,2 @@
+{"agent": "HawaiiRealEstate_Expert", "action": "gather data", "state": "get sales data for 2072 Akaikai Loop and 2017 Komo Mai Drive"}
+{"agent": "Validation_Expert", "action": "update script", "state": "add print statement to output the results"}

@@ -1,0 +1,2 @@
+{"agent": "Verification_Expert", "action": "revise", "state": "use Bing Search API to perform a web search"}
+{"agent": "Whitney_Collection_Expert", "action": "plan", "state": "use a more general web search approach with an external search engine API"}

@@ -1,0 +1,4 @@
+{"agent": "Python_Expert", "action": "request", "state": "Provide red and green numbers manually"}
+{"agent": "Python_Expert", "action": "suggest", "state": "Manually extract red and green numbers from the image"}
+{"agent": "Python_Expert", "action": "suggest", "state": "Provide red and green numbers manually or use OpenCV for image processing"}
+{"agent": "Statistics_Expert", "action": "propose", "state": "Explore alternative options for extracting red and green numbers"}

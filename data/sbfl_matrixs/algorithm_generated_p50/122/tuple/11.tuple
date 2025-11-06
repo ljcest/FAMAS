@@ -1,0 +1,3 @@
+{"agent": "Accessibility_Expert", "action": "request", "state": "web search for addresses of bars"}
+{"agent": "BingAPI_Expert", "action": "provide", "state": "addresses for the bars to calculate distances"}
+{"agent": "Verification_Expert", "action": "inform", "state": "installation command for googlemaps library"}

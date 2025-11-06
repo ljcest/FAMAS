@@ -1,0 +1,2 @@
+{"agent": "Literature_Expert", "action": "execute", "state": "fetch book information using the DOI 10.1353/book.24372"}
+{"agent": "Literature_Expert", "action": "propose", "state": "use a library designed for accessing digital book content using DOIs"}

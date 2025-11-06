@@ -1,0 +1,2 @@
+{"agent": "Geography_Expert", "action": "write script", "state": "access 2020 census data and retrieve population figures for Seattle and Colville"}
+{"agent": "Validation_Expert", "action": "revise script", "state": "use a single request to access the population data for both Seattle and Colville together"}

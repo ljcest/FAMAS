@@ -1,0 +1,3 @@
+{"agent": "Research_Expert", "action": "find", "state": "Julie D. Cummings joined Fubo in 2020, the same year as Fubo's IPO"}
+{"agent": "Research_Expert", "action": "research", "state": "confirm the year of Fubo's IPO and gather joining years of management team members"}
+{"agent": "Validation_Expert", "action": "validate", "state": "verify the joining years of Fubo's Management Team members"}

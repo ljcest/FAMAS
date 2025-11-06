@@ -1,0 +1,2 @@
+{"agent": "Fitness_Expert", "action": "modify code", "state": "add print statement to display identified gyms"}
+{"agent": "Local_Knowledge_Expert", "action": "identify", "state": "gyms near Tompkins Square Park"}

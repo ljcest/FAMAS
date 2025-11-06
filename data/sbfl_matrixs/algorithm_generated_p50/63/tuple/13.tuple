@@ -1,0 +1,2 @@
+{"agent": "MusicTheory_Expert", "action": "execute", "state": "perform the OCR process on the sheet music image"}
+{"agent": "Verification_Expert", "action": "suggest", "state": "use pytesseract library for OCR"}

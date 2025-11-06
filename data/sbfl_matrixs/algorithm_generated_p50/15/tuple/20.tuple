@@ -1,0 +1,3 @@
+{"agent": "Boggle_Board_Expert", "action": "implement", "state": "DFS algorithm and word validation"}
+{"agent": "Boggle_Board_Expert", "action": "represent", "state": "the Boggle board"}
+{"agent": "Dictionary_Expert", "action": "write script", "state": "load the words_alpha dictionary"}

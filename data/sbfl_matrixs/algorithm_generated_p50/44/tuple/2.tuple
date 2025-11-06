@@ -1,0 +1,3 @@
+{"agent": "WebDevelopment_Expert", "action": "ask", "state": "Clarify the method to proceed"}
+{"agent": "WebDevelopment_Expert", "action": "suggest", "state": "Create a Python script to retrieve the website link"}
+{"agent": "Web_Design_Expert", "action": "request", "state": "link to Eva Draconis's YouTube page"}

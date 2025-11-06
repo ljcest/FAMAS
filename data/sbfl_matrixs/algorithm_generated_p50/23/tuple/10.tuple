@@ -1,0 +1,3 @@
+{"agent": "Art_Historian_Expert", "action": "assist", "state": "assist in analyzing the consecrators and co-consecrators associated with the subject's episcopal ordination"}
+{"agent": "Church_Historian_Expert", "action": "research", "state": "look up the portrait with accession number 29.100.5 and identify the subject"}
+{"agent": "DataVerification_Expert", "action": "request", "state": "share results or data found during research"}

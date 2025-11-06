@@ -1,0 +1,2 @@
+{"agent": "Baseball_Expert", "action": "update script", "state": "refine the script to better locate the specific elements containing the player's last name"}
+{"agent": "Validation_Expert", "action": "write script", "state": "scrape NPB player data to find the last names of players wearing numbers 18 and 20"}

@@ -1,0 +1,2 @@
+{"agent": "DataAnalysis_Expert", "action": "write script", "state": "read the Excel file and extract necessary data"}
+{"agent": "Financial_Expert", "action": "modify script", "state": "display the column names to verify their names"}

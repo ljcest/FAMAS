@@ -1,0 +1,2 @@
+{"agent": "Video_Analyst_Expert", "action": "refine search", "state": "include Andy Serkis in the search query"}
+{"agent": "Video_Analyst_Expert", "action": "write script", "state": "search for the specific video from March 2018 narrated by the voice actor of Gollum"}

@@ -1,0 +1,3 @@
+{"agent": "Hiking_Expert", "action": "summarize", "state": "List of trails meeting the criteria"}
+{"agent": "Reviews_Expert", "action": "write script", "state": "analyze reviews to extract relevant trails"}
+{"agent": "Verification_Expert", "action": "verify", "state": "check wheelchair accessibility mentions in reviews for Trail A and Trail D"}

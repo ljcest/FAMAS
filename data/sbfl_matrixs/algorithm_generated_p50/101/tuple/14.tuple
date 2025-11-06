@@ -1,0 +1,3 @@
+{"agent": "Tickets_Pricing_Expert", "action": "assume", "state": "provide assumed prices for the Seattle Children's Museum"}
+{"agent": "Tickets_Pricing_Expert", "action": "write script", "state": "calculate the total cost for daily tickets and annual passes"}
+{"agent": "Tickets_Pricing_Expert", "action": "write script", "state": "fetch the latest ticket prices"}

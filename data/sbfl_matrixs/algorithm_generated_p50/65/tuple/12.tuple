@@ -1,0 +1,3 @@
+{"agent": "VSCode_Expert", "action": "assist", "state": "ask for the command from the video to continue the task"}
+{"agent": "VideoContentAnalysis_Expert", "action": "analyze", "state": "potential commands used in Visual Studio Code to remove extra lines"}
+{"agent": "VideoContentAnalysis_Expert", "action": "request", "state": "Information on the command used in the last video"}

@@ -1,0 +1,2 @@
+{"agent": "Statistics_Expert", "action": "propose", "state": "create synthetic dataset for Houston's weather data for the month of June from 2020 to 2023"}
+{"agent": "WeatherData_Expert", "action": "write script", "state": "fetch historical weather data for Houston, Texas for the month of June from 2020 to 2023"}

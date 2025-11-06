@@ -1,0 +1,2 @@
+{"agent": "ImageProcessing_Expert", "action": "install package", "state": "opencv-python-headless"}
+{"agent": "ProblemSolving_Expert", "action": "rewrite code", "state": "use pytesseract for OCR without external module"}

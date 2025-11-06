@@ -1,0 +1,12 @@
+{"agent": "MagenticOneOrchestrator", "action": "Click", "state": "'View Menu' button"}
+{"agent": "MagenticOneOrchestrator", "action": "Visit", "state": "website of Rosemary's (www.rosemarysnyc.com)"}
+{"agent": "MagenticOneOrchestrator", "action": "plan", "state": "other restaurants within 1 block of Washington Square Park and check if they have vegan mains under $15 and are not takeaway only"}
+{"agent": "MagenticOneOrchestrator", "action": "search", "state": "Rosemary's menu on Yelp or another reliable source"}
+{"agent": "MagenticOneOrchestrator", "action": "search", "state": "restaurants within 1 block of Washington Square Park, including their names and addresses"}
+{"agent": "MagenticOneOrchestrator", "action": "type", "state": "menu of Rosemary's located near Washington Square Park on Yelp or another reliable source"}
+{"agent": "MagenticOneOrchestrator", "action": "visit", "state": "websites or online profiles of restaurants near Washington Square Park"}
+{"agent": "WebSurfer", "action": "click", "state": "Menu"}
+{"agent": "WebSurfer", "action": "click", "state": "Rosemary's - Rosemary's"}
+{"agent": "WebSurfer", "action": "type", "state": "https://www.rosemarysnyc.com"}
+{"agent": "WebSurfer", "action": "type", "state": "menu of Rosemary's located near Washington Square Park on Yelp or another reliable source"}
+{"agent": "WebSurfer", "action": "type", "state": "restaurants within 1 block of Washington Square Park"}

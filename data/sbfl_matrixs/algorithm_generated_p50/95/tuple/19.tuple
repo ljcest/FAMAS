@@ -1,0 +1,2 @@
+{"agent": "AcademicPublication_Expert", "action": "provide", "state": "shell command to install the scholarly package"}
+{"agent": "AcademicPublication_Expert", "action": "suggest", "state": "perform a manual search on academic databases"}

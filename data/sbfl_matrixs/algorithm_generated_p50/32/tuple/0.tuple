@@ -1,0 +1,2 @@
+{"agent": "DataVerification_Expert", "action": "plan", "state": "use Bing Search API to find the first sighting of American Alligator west of Texas"}
+{"agent": "SpeciesSightingsData_Expert", "action": "search", "state": "USGS historical records for the first sighting of the American Alligator west of Texas"}

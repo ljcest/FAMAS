@@ -1,0 +1,2 @@
+{"agent": "Literature_Expert", "action": "perform web search", "state": "Locate the poem text of \u201cFather Son and Holy Ghost\u201d by Audre Lorde"}
+{"agent": "Python_Expert", "action": "request", "state": "Find the text of the poem \u201cFather Son and Holy Ghost\u201d by Audre Lorde"}

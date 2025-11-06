@@ -1,0 +1,2 @@
+{"agent": "Accessibility_Expert", "action": "check", "state": "wheelchair accessibility of identified bars"}
+{"agent": "BingAPI_Expert", "action": "revise script", "state": "add error handling and manual coordinates for Mummers Museum"}

@@ -1,0 +1,3 @@
+{"agent": "Geography_Expert", "action": "outline", "state": "steps for retrieving population data from data.census.gov"}
+{"agent": "Geography_Expert", "action": "provide", "state": "population figures for Seattle and Colville from 2020 census"}
+{"agent": "Validation_Expert", "action": "request", "state": "population figures for Seattle and Colville"}

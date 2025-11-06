@@ -1,0 +1,4 @@
+{"agent": "Fitness_Expert", "action": "assist", "state": "check class schedules for listed gyms"}
+{"agent": "Fitness_Expert", "action": "check", "state": "class schedules for Planet Fitness, YMCA - Astor Place, Blink Fitness"}
+{"agent": "Local_Knowledge_Expert", "action": "identify", "state": "gyms near Tompkins Square Park"}
+{"agent": "Local_Knowledge_Expert", "action": "list", "state": "gyms within 200 meters of Tompkins Square Park"}

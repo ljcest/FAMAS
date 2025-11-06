@@ -1,0 +1,4 @@
+{"agent": "MagenticOneOrchestrator", "action": "ask", "state": "gather a list of Isabelle Adjani's feature films, including their IMDB ratings and runtimes, and then filter out the films that are less than 2 hours long"}
+{"agent": "MagenticOneOrchestrator", "action": "plan", "state": "Update the fact sheet and outline a new plan to navigate to IMDb, search for Isabelle Adjani, and extract relevant information"}
+{"agent": "WebSurfer", "action": "click", "state": "IMDb"}
+{"agent": "WebSurfer", "action": "type", "state": "top-rated Isabelle Adjani films IMDb"}

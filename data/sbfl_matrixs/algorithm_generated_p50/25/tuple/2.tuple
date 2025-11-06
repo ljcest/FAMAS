@@ -1,0 +1,3 @@
+{"agent": "ModelEvaluation_Interpretation_Expert", "action": "begin", "state": "locating the figure with three axes in the AI regulation paper and extracting label words"}
+{"agent": "Physics_Expert", "action": "wait", "state": "for the ModelEvaluation_Interpretation_Expert to provide label words from the June 2022 paper"}
+{"agent": "Verification_Expert", "action": "wait", "state": "for the ModelEvaluation_Interpretation_Expert to provide label words"}

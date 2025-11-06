@@ -1,0 +1,2 @@
+{"agent": "Research_Expert", "action": "write script", "state": "verify the year of Fubo's IPO"}
+{"agent": "Validation_Expert", "action": "suggest", "state": "alternative methods to verify the joining years"}

@@ -1,0 +1,2 @@
+{"agent": "MathAnalysis_Expert", "action": "propose", "state": "use opencv-python and pytesseract for OCR"}
+{"agent": "MusicTheory_Expert", "action": "execute", "state": "run OCR code to extract note letters from the image"}

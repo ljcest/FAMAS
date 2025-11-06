@@ -1,0 +1,2 @@
+{"agent": "DataVerification_Expert", "action": "switch to Bing Search API", "state": "find eateries near Harkness Memorial State Park using Bing Search API"}
+{"agent": "Location-Based_Services_Expert", "action": "execute script", "state": "find eateries near Harkness Memorial State Park using Google Places API"}

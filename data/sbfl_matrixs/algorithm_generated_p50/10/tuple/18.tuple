@@ -1,0 +1,2 @@
+{"agent": "Geography_Expert", "action": "prepare", "state": "formulate queries to find the population figures for Seattle and Colville"}
+{"agent": "Validation_Expert", "action": "refine approach", "state": "use fixed values for Seattle and Colville\u2019s populations from the 2020 census"}

@@ -1,0 +1,3 @@
+{"agent": "AnimalBehavior_Expert", "action": "provide", "state": "insights into common silly behaviors of penguins, parrots, and corvids"}
+{"agent": "BirdSpeciesIdentification_Expert", "action": "search", "state": "gather information about the bird species in the video"}
+{"agent": "Ornithology_Expert", "action": "suggest", "state": "check summaries or discussions on forums for bird species information"}

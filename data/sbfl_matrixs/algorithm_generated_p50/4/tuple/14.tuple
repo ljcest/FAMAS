@@ -1,0 +1,2 @@
+{"agent": "HawaiiRealEstate_Expert", "action": "write script", "state": "fetch sale prices for the two addresses and determine which sold for more"}
+{"agent": "Validation_Expert", "action": "update script", "state": "ensure result is printed explicitly"}

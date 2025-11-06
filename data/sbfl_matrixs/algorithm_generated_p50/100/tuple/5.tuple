@@ -1,0 +1,2 @@
+{"agent": "Movie_Expert", "action": "update code", "state": "check availability of Casino Royale (2006) on Netflix US"}
+{"agent": "StreamingService_Expert", "action": "list", "state": "notable Daniel Craig movies"}

@@ -1,0 +1,2 @@
+{"agent": "MBTA_FranciscoFoxboroLine_Expert", "action": "list", "state": "all the stops on the MBTA\u2019s Franklin-Foxboro line"}
+{"agent": "Verification_Expert", "action": "verify", "state": "the stops and count between South Station and Windsor Gardens"}

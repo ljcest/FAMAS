@@ -1,0 +1,2 @@
+{"agent": "Python_Expert", "action": "propose", "state": "an alternative approach using OpenCV to extract numbers from the image"}
+{"agent": "Statistics_Expert", "action": "provide", "state": "Python code to extract numbers and calculate standard deviations"}

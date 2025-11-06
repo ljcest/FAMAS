@@ -1,0 +1,2 @@
+{"agent": "Clinical_Trial_Data_Analysis_Expert", "action": "search", "state": "NIH database for clinical trials related to H. pylori and acne vulgaris"}
+{"agent": "Validation_Expert", "action": "debug", "state": "Verify the request's success and check the response status before decoding JSON"}

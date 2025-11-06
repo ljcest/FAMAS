@@ -1,0 +1,2 @@
+{"agent": "DOI_Expert", "action": "access", "state": "book using the provided DOI"}
+{"agent": "DOI_Expert", "action": "check", "state": "if PDF extraction is possible using the DOI"}

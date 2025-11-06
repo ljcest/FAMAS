@@ -1,0 +1,3 @@
+{"agent": "Geometry_Expert", "action": "request", "state": "confirm side lengths of the polygon from the image"}
+{"agent": "MathAnalysis_Expert", "action": "agree", "state": "confirm polygon type and request side lengths"}
+{"agent": "Validation_Expert", "action": "propose", "state": "determine polygon type and request side lengths"}

@@ -1,0 +1,24 @@
+{"agent": "VideoContentAnalysis_Expert", "action": "adjust plan", "state": "Skip ffmpeg installation and proceed with video download using yt-dlp"}
+{"agent": "VideoContentAnalysis_Expert", "action": "correct script", "state": "remove unnecessary comments and fix command syntax"}
+{"agent": "VideoContentAnalysis_Expert", "action": "create plan", "state": "Download the video using yt-dlp and extract audio for transcription"}
+{"agent": "VideoContentAnalysis_Expert", "action": "download", "state": "the video from the provided URL"}
+{"agent": "VideoContentAnalysis_Expert", "action": "offer", "state": "assist with a different approach if needed"}
+{"agent": "VideoContentAnalysis_Expert", "action": "prepare", "state": "create a plan to download the video and extract the audio"}
+{"agent": "VideoContentAnalysis_Expert", "action": "provide code", "state": "download the video audio using yt-dlp"}
+{"agent": "VideoContentAnalysis_Expert", "action": "provide code", "state": "download the video using yt-dlp"}
+{"agent": "VideoContentAnalysis_Expert", "action": "provide code", "state": "install yt-dlp and prepare to download the video"}
+{"agent": "VideoContentAnalysis_Expert", "action": "provide instructions", "state": "install ffmpeg and update yt-dlp"}
+{"agent": "VideoContentAnalysis_Expert", "action": "provide plan", "state": "download the video using yt-dlp and extract the audio for transcription"}
+{"agent": "VideoContentAnalysis_Expert", "action": "provide script", "state": "to download the video using yt-dlp"}
+{"agent": "VideoContentAnalysis_Expert", "action": "suggest", "state": "Download the video using yt-dlp and extract the audio using ffmpeg"}
+{"agent": "VideoContentAnalysis_Expert", "action": "suggest", "state": "Use yt-dlp with cookies to bypass bot verification"}
+{"agent": "VideoContentAnalysis_Expert", "action": "suggest", "state": "update yt-dlp and Python or use an alternative method"}
+{"agent": "VideoContentAnalysis_Expert", "action": "update", "state": "update yt-dlp to the latest version"}
+{"agent": "VideoContentAnalysis_Expert", "action": "update script", "state": "add cookies to authenticate the request and download the video"}
+{"agent": "VideoContentAnalysis_Expert", "action": "update script", "state": "try downloading the video without specifying format"}
+{"agent": "VideoContentAnalysis_Expert", "action": "update script", "state": "update yt-dlp to the latest version"}
+{"agent": "VideoContentAnalysis_Expert", "action": "write script", "state": "download the video using yt-dlp"}
+{"agent": "VideoContentAnalysis_Expert", "action": "write script", "state": "download the video using yt-dlp and extract audio"}
+{"agent": "VideoContentAnalysis_Expert", "action": "write script", "state": "download the video using yt-dlp and extract audio using ffmpeg"}
+{"agent": "VideoContentAnalysis_Expert", "action": "write script", "state": "download the video using yt-dlp and extract the audio for transcription"}
+{"agent": "VideoContentAnalysis_Expert", "action": "write script", "state": "download the video using yt-dlp and transcribe the relevant audio using ffmpeg"}

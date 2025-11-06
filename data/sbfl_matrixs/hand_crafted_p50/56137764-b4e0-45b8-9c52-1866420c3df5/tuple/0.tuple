@@ -1,0 +1,13 @@
+{"agent": "MagenticOneOrchestrator", "action": "navigate", "state": "the official OpenCV documentation or release notes and find the exact version of OpenCV where Mask-RCNN support was officially added"}
+{"agent": "MagenticOneOrchestrator", "action": "plan", "state": "team to address the user request about OpenCV Mask-RCNN support"}
+{"agent": "MagenticOneOrchestrator", "action": "review", "state": "the conversation and the information gathered"}
+{"agent": "MagenticOneOrchestrator", "action": "search", "state": "the OpenCV GitHub repository for the specific version that added support for the Mask-RCNN model"}
+{"agent": "MagenticOneOrchestrator", "action": "search", "state": "the commit history of the OpenCV repository for any mentions of 'Mask-RCNN support' or 'Mask-RCNN integration'"}
+{"agent": "MagenticOneOrchestrator", "action": "search", "state": "the specific version of OpenCV where support for the Mask-RCNN model was added"}
+{"agent": "WebSurfer", "action": "click", "state": "Code"}
+{"agent": "WebSurfer", "action": "click", "state": "Commits"}
+{"agent": "WebSurfer", "action": "click", "state": "Releases 66"}
+{"agent": "WebSurfer", "action": "click", "state": "Search or jump to\u2026"}
+{"agent": "WebSurfer", "action": "click", "state": "github.com/opencv/opencv"}
+{"agent": "WebSurfer", "action": "type", "state": "OpenCV version with Mask-RCNN support"}
+{"agent": "WebSurfer", "action": "type", "state": "https://github.com/opencv/opencv "}

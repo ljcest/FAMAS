@@ -1,0 +1,2 @@
+{"agent": "Verification_Expert", "action": "suggest", "state": "use Python code for web scraping to gather information about the photograph"}
+{"agent": "Whitney_Collection_Expert", "action": "modify", "state": "update URL to search Whitney Museum's collection directly"}

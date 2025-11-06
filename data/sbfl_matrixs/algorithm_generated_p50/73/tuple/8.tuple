@@ -1,0 +1,3 @@
+{"agent": "DoctorWhoScript_Expert", "action": "extract", "state": "first scene heading from the script"}
+{"agent": "Validation_Expert", "action": "clarify", "state": "need access to the script for accurate validation"}
+{"agent": "Validation_Expert", "action": "request", "state": "CSV file path containing the script data for validation"}

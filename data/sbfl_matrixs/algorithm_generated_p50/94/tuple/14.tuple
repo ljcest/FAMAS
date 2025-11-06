@@ -1,0 +1,3 @@
+{"agent": "AnimalBehavior_Expert", "action": "redirect", "state": "Ornithology_Expert"}
+{"agent": "BirdSpeciesIdentification_Expert", "action": "propose", "state": "steps to gather more concrete information about the bird"}
+{"agent": "BirdSpeciesIdentification_Expert", "action": "request", "state": "video link to review bird characteristics"}

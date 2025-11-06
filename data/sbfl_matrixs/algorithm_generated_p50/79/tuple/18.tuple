@@ -1,0 +1,2 @@
+{"agent": "Verification_Expert", "action": "revise script", "state": "add debug statements to better understand menu extraction"}
+{"agent": "WaybackMachine_Expert", "action": "write script", "state": "retrieve the archived dinner menus for Virtue restaurant & bar on specified dates using the Wayback Machine"}

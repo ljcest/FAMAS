@@ -1,0 +1,2 @@
+{"agent": "DataAnalysis_Expert", "action": "create sample data", "state": "representing the number of athletes each country sent to the 1928 Summer Olympics"}
+{"agent": "DataAnalysis_Expert", "action": "request", "state": "CSV file or confirmation to proceed with a mock dataset"}
